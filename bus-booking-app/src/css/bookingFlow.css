@@ -1,0 +1,44 @@
+.booking-container {
+  position: relative;
+  margin: 30px auto;
+  padding-top: 120px;
+  width: 65%;
+  font-family: "Segoe UI", sans-serif;
+}
+.booking-container::-webkit-scrollbar {
+  display: none;
+}
+
+.stepper {
+  display: flex;
+  justify-content: space-between;
+  background: #fff; /* keep visible on scroll */
+  position: fixed; /* ✅ stays in place */
+  top: 83px;
+  z-index: 1000;
+  border-bottom: 2px solid #f28b82;
+  margin-bottom: 20px;
+  margin-left: 39px;
+  padding: 10px;
+  min-width: 800px;
+}
+.step {
+  flex: 1;
+  text-align: center;
+  font-weight: bold;
+  color: #999;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 12px 0px;
+}
+.step-content::-webkit-scrollbar {
+  display: none;
+}
+.step.active {
+  /* color: #d32f2f; */
+  /* border-bottom: 3px solid #d32f2f; */
+}
+.step:hover {
+  color: #b71c1c;
+}

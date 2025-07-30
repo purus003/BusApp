@@ -1,0 +1,167 @@
+/* ✅ Main Wrapper after Navbar */
+.buspgWrapper {
+  margin-top: 130px; /* Pushes content below navbar */
+  display: flex;
+  gap: 20px;
+}
+
+/* ✅ Sidebar Filter */
+.buspg-filter {
+  width: 240px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+  position: fixed; /* ✅ stays fixed while scrolling */
+  top: 130px; /* distance from top */
+  left: 25px; /* adjust left position to match original layout */
+  z-index: 1000; /* keep it above other elements */
+  height: fit-content;
+}
+
+.buspgH3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #222;
+}
+
+.buspgFilterTitle {
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.buspg-checkbox {
+  margin-bottom: 12px;
+}
+
+.buspg-checkbox label {
+  font-size: 15px;
+  cursor: pointer;
+}
+
+/* ✅ Bus List Container */
+.buspgBusDetails {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* ✅ Bus Card Styling */
+.buspgCardNew {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: 300px;
+  margin-right: -230px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  transition: all 0.2s ease-in-out;
+}
+
+/* ✅ Header Row */
+.buspgHeaderRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.buspgBusTitle {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+  color: #222;
+}
+
+.buspgSubType {
+  font-size: 13px;
+  color: #777;
+  margin-top: 2px;
+}
+
+.buspgFare {
+  font-size: 20px;
+  font-weight: bold;
+  color: #222;
+}
+
+/* ✅ Meta Info */
+.buspgMeta {
+  display: flex;
+  gap: 15px;
+  font-size: 13px;
+  align-items: center;
+}
+
+.buspgRatingBadge {
+  background: #2e7d32;
+  color: #e0f7e0;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.buspgLiveTrack {
+  color: gray;
+}
+
+/* ✅ Timings */
+.buspgTimeRow {
+  font-size: 15px;
+  color: #333;
+}
+
+.buspgTime {
+  font-size: 16px;
+  color: #000;
+}
+
+.buspgDurationText {
+  font-size: 12px;
+  color: #999;
+}
+
+/* ✅ Action Button */
+.buspgActionRow {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.buspgSelectSeats {
+  background: #e53935;
+  color: #fff;
+  border: none;
+  padding: 6px 16px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.buspgSelectSeats:hover {
+  background: #b71c1c;
+}
+
+/* ✅ No Buses */
+.no-bus-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 450px;
+}
+.buspgNoBuses {
+  font-size: 1.3rem;
+  color: #ff4d4d;
+  background: #fff3f3;
+  padding: 10px 20px;
+  border: 1px solid #ffcccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}

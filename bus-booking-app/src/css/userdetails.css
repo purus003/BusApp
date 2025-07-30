@@ -1,0 +1,147 @@
+/* Overall Layout */
+.user1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* background: #f5f6fa; */
+  padding: 120px 20px 40px; /* space after navbar */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* User Details Card */
+.user1-details-container {
+  width: 100%;
+  max-width: 550px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  padding: 24px 28px;
+  margin-bottom: 24px;
+}
+
+.user1-details-container h2 {
+  font-size: 22px;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.user1-info p {
+  font-size: 16px;
+  margin: 10px 0;
+  color: #444;
+}
+
+.user1-info svg {
+  margin-right: 8px;
+  color: #555;
+}
+
+/* Passenger Section */
+.passenger {
+  width: 100%;
+  max-width: 550px;
+  background: #fff;
+  border-radius: 12px;
+  padding: 24px 28px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+}
+
+.passenger h1 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Passenger Form Card */
+.passenger-form {
+  background: #f9fafc;
+  padding: 16px;
+  border-radius: 10px;
+  margin-bottom: 16px;
+  border: 1px solid #e0e0e0;
+  text-align: left;
+}
+
+.passenger-form strong {
+  font-size: 16px;
+  color: #444;
+}
+
+.passenger-form span {
+  display: block;
+  font-size: 14px;
+  color: #666;
+  margin-top: 4px;
+}
+
+/* Input Styles */
+.name input {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.radio-group {
+  margin-top: 15px;
+}
+
+.radioButtons {
+  display: flex;
+  gap: 25px;
+  justify-content: flex-start;
+  margin-top: 5px;
+}
+
+.radioButtons label {
+  font-size: 14px;
+  color: #444;
+  cursor: pointer;
+}
+
+.radioButtons input {
+  margin-right: 6px;
+}
+.error-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+/* Error */
+.error {
+  color: #d93025;
+  font-size: 13px;
+  margin: 10px 0;
+  text-align: center;
+}
+
+/* Button Group */
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.button-group button {
+  flex: 1;
+  margin: 0 5px;
+  padding: 12px 0;
+  border: none;
+  font-size: 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.button-group button[type="submit"] {
+  background-color: rgb(42, 105, 42);
+  color: #fff;
+}
+
+.button-group button.back-btn {
+  background-color: #888;
+  color: #fff;
+}

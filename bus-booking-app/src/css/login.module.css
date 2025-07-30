@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url('../Assets/bus.jpeg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* ✅ Center Container */
+.loginPage__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+/* ✅ White Card */
+.loginPage__formBox {
+  background: white;
+  padding: 25px 30px;
+  border-radius: 12px;
+  width: 340px;
+  min-height: 360px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* ✅ Title */
+.loginPage__title {
+  font-size: 24px;
+  text-align: center;
+  color: #222;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+/* ✅ Input Fields */
+.loginPage__input {
+  width: 100%;
+  padding: 9px 40px 9px 10px; /* space for icon */
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #f9f9f9;
+  color: #000;
+  font-size: 14px;
+  margin-bottom: 12px;
+  outline: none;
+}
+
+.loginPage__input:focus {
+  border: 1px solid #007BFF;
+  background: white;
+}
+
+/* ✅ Password Wrapper */
+.passwordWrapper {
+  position: relative;
+  width: 100%;
+}
+
+/* ✅ Eye Icon (Right Corner Middle) */
+.passwordToggle {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  color: #555;
+  cursor: pointer;
+}
+
+/* ✅ Error Messages */
+.loginPage__error {
+  color: red;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+/* ✅ Login Button */
+.loginPage__lggbtn {
+  background-color: rgb(8, 0, 44);
+  text-align: center;
+  border-radius: 10px;
+  height: 45px;
+  width: 50px;
+}
+
+.loginPage__button:hover {
+  background: #218838;
+  transform: scale(1.05);
+}
+
+/* ✅ Footer Text */
+.loginPage__footerText {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 16px;
+  color: #333;
+}
+
+.loginPage__link {
+  color: #007BFF;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.loginPage__link:hover {
+  text-decoration: underline;
+}

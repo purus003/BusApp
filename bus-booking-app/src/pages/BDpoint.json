@@ -1,0 +1,2128 @@
+[
+  {
+    "city": "hyderabad",
+    "boardingPoints": [
+      "Miyapur",
+      "Ameerpet",
+      "Kukatpally",
+      "LB Nagar",
+      "Mehdipatnam"
+    ],
+    "droppingPoints": [
+      "Koti",
+      "Charminar",
+      "Secunderabad",
+      "Hitech City",
+      "Dilsukhnagar"
+    ]
+  },
+  {
+    "city": "visakhapatnam",
+    "boardingPoints": [
+      "Gajuwaka",
+      "Maddilapalem",
+      "Dwaraka Nagar",
+      "Gopalapatnam",
+      "RTC Complex"
+    ],
+    "droppingPoints": [
+      "MVP Colony",
+      "Dabagardens",
+      "Seethammadhara",
+      "NAD Junction",
+      "Akkayyapalem"
+    ]
+  },
+  {
+    "city": "vijayawada",
+    "boardingPoints": [
+      "Benz Circle",
+      "Auto Nagar",
+      "Ramavarappadu",
+      "Krishna Lanka",
+      "Vidhyadharapuram"
+    ],
+    "droppingPoints": [
+      "Gollapudi",
+      "Kanuru",
+      "Currency Nagar",
+      "PNBS",
+      "Patamata"
+    ]
+  },
+  {
+    "city": "warangal",
+    "boardingPoints": [
+      "Kazipet",
+      "Hanamkonda",
+      "Subedari",
+      "MGM Hospital",
+      "Mulugu Road"
+    ],
+    "droppingPoints": [
+      "Station Road",
+      "Nakkalagutta",
+      "LB Nagar",
+      "Balasamudram",
+      "Fort Road"
+    ]
+  },
+  {
+    "city": "guntur",
+    "boardingPoints": [
+      "Nallapadu",
+      "Brodipet",
+      "Lakshmipuram",
+      "Arundelpet",
+      "Chandramoulinagar"
+    ],
+    "droppingPoints": [
+      "Sattenapalle Road",
+      "Railway Station",
+      "NGO Colony",
+      "Pattabhipuram",
+      "Sangadigunta"
+    ]
+  },
+  {
+    "city": "tirupati",
+    "boardingPoints": [
+      "Renigunta",
+      "Tiruchanoor",
+      "Balaji Colony",
+      "RC Road",
+      "Air Bypass Road"
+    ],
+    "droppingPoints": [
+      "Bus Stand",
+      "Railway Station",
+      "Kapila Theertham",
+      "Alipiri",
+      "Srinivasa Nagar"
+    ]
+  },
+  {
+    "city": "nellore",
+    "boardingPoints": [
+      "Magunta Layout",
+      "RTC Bus Stand",
+      "Mini Bypass",
+      "Nawabpeta",
+      "Podalakur Road"
+    ],
+    "droppingPoints": [
+      "Stonehousepet",
+      "B.V. Nagar",
+      "Haritha Hotel",
+      "VRC Center",
+      "Chemudugunta"
+    ]
+  },
+  {
+    "city": "kurnool",
+    "boardingPoints": [
+      "Bellary Chowrasta",
+      "C Camp",
+      "Nehru Nagar",
+      "B Camp",
+      "Rayalaseema University"
+    ],
+    "droppingPoints": [
+      "APSRTC Bus Stand",
+      "Orvakal",
+      "Nandyal Checkpost",
+      "Joharapuram",
+      "Sree Rama Nagar"
+    ]
+  },
+  {
+    "city": "rajahmundry",
+    "boardingPoints": [
+      "Kotipalli Bus Stand",
+      "Danavaipeta",
+      "Morampudi",
+      "Tilak Road",
+      "RTC Complex"
+    ],
+    "droppingPoints": [
+      "Godavari Railway Station",
+      "Aryapuram",
+      "Devi Chowk",
+      "Kambala Tank",
+      "Syamalanagar"
+    ]
+  },
+  {
+    "city": "nizamabad",
+    "boardingPoints": [
+      "Bodhan Road",
+      "Hyderabad Road",
+      "Armoor",
+      "Gangastan",
+      "Bus Stand"
+    ],
+    "droppingPoints": [
+      "Railway Station",
+      "Subhash Nagar",
+      "Dichpally",
+      "Vinayak Nagar",
+      "Collector Office"
+    ]
+  },
+  {
+    "city": "karimnagar",
+    "boardingPoints": [
+      "Vavilalapally",
+      "Mancherial Chowk",
+      "Kothirampur",
+      "Collectorate",
+      "Ramnagar"
+    ],
+    "droppingPoints": [
+      "Peddapalli Road",
+      "RTC Bus Stand",
+      "Jagityal Chowrasta",
+      "Sapthagiri",
+      "Karimnagar Court"
+    ]
+  },
+  {
+    "city": "khammam",
+    "boardingPoints": [
+      "Nehru Nagar",
+      "Bus Stand",
+      "Wyra Road",
+      "Mamata Hospital",
+      "Bhimadole"
+    ],
+    "droppingPoints": [
+      "Venkatagiri",
+      "Mitra Hills",
+      "RTO Office",
+      "New Bus Station",
+      "Bonakal"
+    ]
+  },
+  {
+    "city": "bengaluru",
+    "boardingPoints": [
+      "Majestic",
+      "Silk Board",
+      "BTM Layout",
+      "Electronic City",
+      "KR Puram"
+    ],
+    "droppingPoints": [
+      "Hebbal",
+      "Yeshwantpur",
+      "Marathahalli",
+      "Whitefield",
+      "Jayanagar"
+    ]
+  },
+  {
+    "city": "mysuru",
+    "boardingPoints": [
+      "Kuvempunagar",
+      "Bogadi",
+      "Chamundi Hill",
+      "Lashkar Mohalla",
+      "Jayanagar"
+    ],
+    "droppingPoints": [
+      "Railway Station",
+      "KR Circle",
+      "Saraswathipuram",
+      "Metagalli",
+      "Bannimantap"
+    ]
+  },
+  {
+    "city": "mangaluru",
+    "boardingPoints": ["Hampankatta", "Kankanady", "Kadri", "Bejai", "Lalbagh"],
+    "droppingPoints": [
+      "Statebank",
+      "Urva",
+      "Surathkal",
+      "Pumpwell",
+      "Thokkottu"
+    ]
+  },
+  {
+    "city": "hubballi",
+    "boardingPoints": [
+      "Deshpande Nagar",
+      "Gokul Road",
+      "Old Hubli",
+      "Vidya Nagar",
+      "New Bus Stand"
+    ],
+    "droppingPoints": [
+      "Keshwapur",
+      "Railway Station",
+      "Navanagar",
+      "KIMS Hospital",
+      "Gadag Road"
+    ]
+  },
+  {
+    "city": "belagavi",
+    "boardingPoints": [
+      "Tilakwadi",
+      "Udyambag",
+      "Ramteerth Nagar",
+      "Kangrali",
+      "Fort Road"
+    ],
+    "droppingPoints": [
+      "Angol",
+      "Gogte Circle",
+      "Bus Stand",
+      "Club Road",
+      "Ashok Nagar"
+    ]
+  },
+  {
+    "city": "davangere",
+    "boardingPoints": [
+      "Shivaji Nagar",
+      "Hadadi Road",
+      "Mandipet",
+      "Vidyanagar",
+      "KTJ Nagar"
+    ],
+    "droppingPoints": [
+      "Railway Station",
+      "PB Road",
+      "GMIT College",
+      "Bus Stand",
+      "Basaveshwara Colony"
+    ]
+  },
+  {
+    "city": "ballari",
+    "boardingPoints": [
+      "Gandhi Nagar",
+      "TB Dam",
+      "Cantonment",
+      "Ananthapur Road",
+      "Kolagallu"
+    ],
+    "droppingPoints": [
+      "City Bus Stand",
+      "Ballari Fort",
+      "Brucepet",
+      "Kappagal Road",
+      "Moka Road"
+    ]
+  },
+  {
+    "city": "anantapur",
+    "boardingPoints": [
+      "RTC Bus Stand",
+      "Sapthagiri Circle",
+      "Raju Road",
+      "Old Town",
+      "Clock Tower"
+    ],
+    "droppingPoints": [
+      "Kalyandurg Road",
+      "Anjaiah Road",
+      "Gooty Road",
+      "SK University",
+      "Housing Board"
+    ]
+  },
+  {
+    "city": "mahbubnagar",
+    "boardingPoints": [
+      "Mahbubnagar Bus Stand",
+      "New Bus Station",
+      "Shadnagar",
+      "Boothpur"
+    ],
+    "droppingPoints": ["Mahbubnagar Bus Stand", "Jadcherla", "New Bus Station"]
+  },
+  {
+    "city": "suryapet",
+    "boardingPoints": ["Suryapet Bypass", "New Bus Stand", "Kodad Road"],
+    "droppingPoints": ["Suryapet Main", "Collector Office", "Bus Depot"]
+  },
+  {
+    "city": "adilabad",
+    "boardingPoints": ["Adilabad Bus Station", "Nirmal Road", "Basar Gate"],
+    "droppingPoints": [
+      "Adilabad Bus Station",
+      "Guda Chowrastha",
+      "Collectorate"
+    ]
+  },
+  {
+    "city": "kalaburagi",
+    "boardingPoints": [
+      "Kalaburagi Central Bus Stand",
+      "Jewargi Cross",
+      "Gulbarga Ring Road"
+    ],
+    "droppingPoints": ["Super Market", "Sedam Road", "MSK Mill"]
+  },
+  {
+    "city": "shivamogga",
+    "boardingPoints": ["Shivamogga Bus Stand", "Sagara Road", "Kuvempu Nagar"],
+    "droppingPoints": ["Shivamogga Bus Depot", "RMC Yard", "Kote Circle"]
+  },
+  {
+    "city": "tumakuru",
+    "boardingPoints": ["Tumakuru KSRTC Bus Stand", "Gubbi Gate", "Kyathsandra"],
+    "droppingPoints": ["SIT Circle", "SS Puram", "Tumakuru Bypass"]
+  },
+  {
+    "city": "raichur",
+    "boardingPoints": ["Raichur Bus Stand", "Industrial Area", "Station Road"],
+    "droppingPoints": ["Raichur Circle", "Sindhanur Road", "Raichur Fort Area"]
+  },
+  {
+    "city": "chennai",
+    "boardingPoints": [
+      "Koyambedu",
+      "Tambaram",
+      "Adyar",
+      "Anna Nagar",
+      "Velachery"
+    ],
+    "droppingPoints": [
+      "Parrys Corner",
+      "Egmore",
+      "Guindy",
+      "T. Nagar",
+      "Chromepet"
+    ]
+  },
+  {
+    "city": "coimbatore",
+    "boardingPoints": [
+      "Gandhipuram",
+      "Peelamedu",
+      "RS Puram",
+      "Singanallur",
+      "Ukkadam"
+    ],
+    "droppingPoints": [
+      "Town Hall",
+      "Podanur",
+      "Saibaba Colony",
+      "Vadavalli",
+      "Thudiyalur"
+    ]
+  },
+  {
+    "city": "madurai",
+    "boardingPoints": [
+      "Mattuthavani",
+      "Thiruparankundram",
+      "Anna Nagar",
+      "Palanganatham",
+      "Simmakkal"
+    ],
+    "droppingPoints": [
+      "Periyar Bus Stand",
+      "Tallakulam",
+      "KK Nagar",
+      "Koodal Nagar",
+      "Goripalayam"
+    ]
+  },
+  {
+    "city": "tiruchirappalli",
+    "boardingPoints": [
+      "Central Bus Stand",
+      "Srirangam",
+      "Thillai Nagar",
+      "KK Nagar",
+      "Cantonment"
+    ],
+    "droppingPoints": [
+      "Chathiram Bus Stand",
+      "Ponmalai",
+      "BHEL",
+      "Manikandam",
+      "Woraiyur"
+    ]
+  },
+  {
+    "city": "salem",
+    "boardingPoints": [
+      "New Bus Stand",
+      "Shevapet",
+      "Hasthampatty",
+      "Seelanaickenpatti",
+      "Ammapet"
+    ],
+    "droppingPoints": [
+      "Four Roads",
+      "Gugai",
+      "Kannankurichi",
+      "Fairlands",
+      "Omalur"
+    ]
+  },
+  {
+    "city": "tirunelveli",
+    "boardingPoints": [
+      "New Bus Stand",
+      "Palayamkottai",
+      "Vannarpettai",
+      "Melapalayam",
+      "Sankarankovil Road"
+    ],
+    "droppingPoints": [
+      "VOC Ground",
+      "High Ground",
+      "KTC Nagar",
+      "Seevalaperi Road",
+      "Perumalpuram"
+    ]
+  },
+  {
+    "city": "tiruppur",
+    "boardingPoints": [
+      "Old Bus Stand",
+      "Kumar Nagar",
+      "Kangeyam Road",
+      "Mangalam",
+      "Veerapandi"
+    ],
+    "droppingPoints": [
+      "Anupparpalayam",
+      "PN Road",
+      "Avinashi",
+      "Nallur",
+      "Koolipalayam"
+    ]
+  },
+  {
+    "city": "erode",
+    "boardingPoints": [
+      "Central Bus Stand",
+      "Perundurai",
+      "Solar",
+      "Gobichettipalayam Road",
+      "Chithode"
+    ],
+    "droppingPoints": [
+      "Brough Road",
+      "Texvalley",
+      "Modakurichi",
+      "Sampath Nagar",
+      "Veerappanchatram"
+    ]
+  },
+  {
+    "city": "vellore",
+    "boardingPoints": [
+      "New Bus Stand",
+      "Katpadi",
+      "Gandhinagar",
+      "Bagayam",
+      "Sathuvachari"
+    ],
+    "droppingPoints": [
+      "VIT University",
+      "CMC Hospital",
+      "Green Circle",
+      "Thorapadi",
+      "Arcot Road"
+    ]
+  },
+  {
+    "city": "thoothukudi",
+    "boardingPoints": [
+      "Old Bus Stand",
+      "Muthiahpuram",
+      "Millerpuram",
+      "V.O.C. College",
+      "SIPCOT"
+    ],
+    "droppingPoints": [
+      "Harbour",
+      "Therespuram",
+      "P&T Colony",
+      "Korampallam",
+      "Bryant Nagar"
+    ]
+  },
+  {
+    "city": "dindigul",
+    "boardingPoints": [
+      "New Bus Stand",
+      "Thadikombu Road",
+      "Palani Road",
+      "Begambur",
+      "Soundararaja Mills"
+    ],
+    "droppingPoints": [
+      "Old Bus Stand",
+      "Nagari",
+      "AMC Road",
+      "RM Colony",
+      "Vedasandur"
+    ]
+  },
+  {
+    "city": "nagercoil",
+    "boardingPoints": [
+      "Vadasery",
+      "Asaripallam",
+      "Suchindram",
+      "Monday Market",
+      "Vetturnimadam"
+    ],
+    "droppingPoints": [
+      "Parvathipuram",
+      "Meenakshipuram",
+      "Kottar",
+      "Aralvaimozhi",
+      "Kanyakumari Road"
+    ]
+  },
+  {
+    "city": "kanchipuram",
+    "boardingPoints": [
+      "New Bus Stand",
+      "Pillaiyarpalayam",
+      "Ennaikaran",
+      "Orikkai",
+      "Nathapettai"
+    ],
+    "droppingPoints": [
+      "Kailasanathar Temple",
+      "Ekambareswarar Temple",
+      "Sevilimedu",
+      "Pillaiyarpalayam",
+      "Mangadu Road"
+    ]
+  },
+  {
+    "city": "cuddalore",
+    "boardingPoints": [
+      "Central Bus Stand",
+      "Thirupapuliyur",
+      "Vannarapalayam",
+      "Semmandalam",
+      "Periyakattupalayam"
+    ],
+    "droppingPoints": [
+      "Silver Beach",
+      "Chidambaram Road",
+      "Manjakuppam",
+      "Thiruvahindrapuram",
+      "SIPCOT"
+    ]
+  },
+  {
+    "city": "kumbakonam",
+    "boardingPoints": [
+      "New Bus Stand",
+      "Thanjavur Road",
+      "Valayapettai",
+      "Darasuram",
+      "Nageswaran North Street"
+    ],
+    "droppingPoints": [
+      "Town Bus Stand",
+      "Kaveri Bridge",
+      "Swamimalai",
+      "Nachiyar Koil",
+      "Govindapuram"
+    ]
+  },
+  {
+    "city": "mumbai",
+    "boardingPoints": ["Andheri", "Borivali", "Dadar", "Vashi", "Thane"],
+    "droppingPoints": ["Panvel", "Chembur", "Bandra", "Kalyan", "Malad"]
+  },
+  {
+    "city": "pune",
+    "boardingPoints": [
+      "Swargate",
+      "Shivajinagar",
+      "Katraj",
+      "Aundh",
+      "Hinjewadi"
+    ],
+    "droppingPoints": ["Wakad", "Baner", "Magarpatta", "Khadki", "Hadapsar"]
+  },
+  {
+    "city": "nagpur",
+    "boardingPoints": [
+      "Sitabuldi",
+      "Mahal",
+      "Dharampeth",
+      "Sadar",
+      "Wardhaman Nagar"
+    ],
+    "droppingPoints": [
+      "Civil Lines",
+      "Ajni",
+      "Manish Nagar",
+      "Koradi",
+      "Hudkeshwar"
+    ]
+  },
+  {
+    "city": "nashik",
+    "boardingPoints": [
+      "CBS",
+      "Panchavati",
+      "Gangapur Road",
+      "Dwarka",
+      "Indira Nagar"
+    ],
+    "droppingPoints": [
+      "Ambad",
+      "Nashik Road",
+      "Satpur",
+      "Deolali",
+      "Trimurti Chowk"
+    ]
+  },
+  {
+    "city": "aurangabad",
+    "boardingPoints": [
+      "CIDCO",
+      "Gadia Vihar",
+      "Waluj",
+      "Railway Station",
+      "Cannaught"
+    ],
+    "droppingPoints": [
+      "Kranti Chowk",
+      "Shahganj",
+      "Osmanpura",
+      "Jalna Road",
+      "Pundlik Nagar"
+    ]
+  },
+  {
+    "city": "solapur",
+    "boardingPoints": [
+      "Siddheshwar",
+      "Akkalkot Road",
+      "Hotgi",
+      "MIDC",
+      "Murarpally"
+    ],
+    "droppingPoints": [
+      "Pandharpur Road",
+      "Sambhaji Chowk",
+      "Jule Solapur",
+      "Fatteh Chowk",
+      "Kumathe"
+    ]
+  },
+  {
+    "city": "kolhapur",
+    "boardingPoints": [
+      "Shahu Market",
+      "Rankala",
+      "Udyamnagar",
+      "Gandhinagar",
+      "Laxmipuri"
+    ],
+    "droppingPoints": [
+      "Karveer",
+      "Kasaba Bawada",
+      "Ichalkaranji Road",
+      "Gokul Shirgaon",
+      "Shiroli"
+    ]
+  },
+  {
+    "city": "amravati",
+    "boardingPoints": [
+      "Rajapeth",
+      "Badnera",
+      "Gopal Nagar",
+      "Rathi Nagar",
+      "Dastur Nagar"
+    ],
+    "droppingPoints": [
+      "Maltekdi",
+      "Akoli Road",
+      "Paratwada Road",
+      "Wadali",
+      "Camp Area"
+    ]
+  },
+  {
+    "city": "jalgaon",
+    "boardingPoints": [
+      "Raver Road",
+      "Ring Road",
+      "Bhusawal Road",
+      "Rokadia Hanuman",
+      "Mehrun"
+    ],
+    "droppingPoints": [
+      "Ajanta Road",
+      "Pimprala",
+      "MIDC",
+      "Kadgaon",
+      "Muktainagar Road"
+    ]
+  },
+  {
+    "city": "ahmednagar",
+    "boardingPoints": ["Savedi", "MIDC", "Tarwadi", "Nalegaon", "Pune Road"],
+    "droppingPoints": [
+      "Kedgaon",
+      "Bolhegaon",
+      "Nagar Bus Stand",
+      "Pipeline Road",
+      "Market Yard"
+    ]
+  },
+  {
+    "city": "sangli",
+    "boardingPoints": [
+      "Madhavnagar",
+      "Kupwad",
+      "Vishrambag",
+      "Miraj Road",
+      "Shivaji Nagar"
+    ],
+    "droppingPoints": [
+      "Gaonbhag",
+      "Datta Nagar",
+      "Shivaji Chowk",
+      "Warnali",
+      "Gokulwadi"
+    ]
+  },
+  {
+    "city": "latur",
+    "boardingPoints": [
+      "MIDC",
+      "Barshi Road",
+      "Renapur Road",
+      "Old Latur",
+      "Shivaji Chowk"
+    ],
+    "droppingPoints": [
+      "Udgir Road",
+      "Ganj Golai",
+      "Ambajogai Road",
+      "Nanded Road",
+      "Vishal Nagar"
+    ]
+  },
+  {
+    "city": "malegaon",
+    "boardingPoints": [
+      "Camp",
+      "Saykheda Road",
+      "Satana Naka",
+      "Powerloom Area",
+      "Shivaji Nagar"
+    ],
+    "droppingPoints": [
+      "Hivargaon",
+      "Ambad Road",
+      "Old Malegaon",
+      "Nampur Road",
+      "Mosque Road"
+    ]
+  },
+  {
+    "city": "satara",
+    "boardingPoints": [
+      "Powai Naka",
+      "Shahupuri",
+      "MIDC Road",
+      "Karanje",
+      "Shendre"
+    ],
+    "droppingPoints": [
+      "Kodoli",
+      "Vaduj Road",
+      "Pusesavali",
+      "Yadogopal Peth",
+      "Venna River Bridge"
+    ]
+  },
+  {
+    "city": "ratnagiri",
+    "boardingPoints": [
+      "Bus Stand",
+      "Mirya",
+      "Rajiwada",
+      "Nachane",
+      "Patit Pawan Nagar"
+    ],
+    "droppingPoints": [
+      "Mandvi",
+      "Karle",
+      "Purnagad",
+      "Bhatye",
+      "Ganpatipule Road"
+    ]
+  },
+  {
+    "city": "new Delhi",
+    "boardingPoints": [
+      "ISBT Kashmiri Gate",
+      "Sarojini Nagar",
+      "RK Puram",
+      "AIIMS",
+      "Chanakyapuri"
+    ],
+    "droppingPoints": [
+      "Connaught Place",
+      "Janpath",
+      "Indira Gandhi Airport",
+      "New Delhi Railway Station",
+      "India Gate"
+    ]
+  },
+  {
+    "city": "north Delhi",
+    "boardingPoints": [
+      "Model Town",
+      "GTB Nagar",
+      "Civil Lines",
+      "Azadpur",
+      "Mukherjee Nagar"
+    ],
+    "droppingPoints": [
+      "Kingsway Camp",
+      "Burari",
+      "Shalimar Bagh",
+      "Rohini Sector 7",
+      "Pitampura"
+    ]
+  },
+  {
+    "city": "south Delhi",
+    "boardingPoints": [
+      "Hauz Khas",
+      "Malviya Nagar",
+      "Green Park",
+      "Saket",
+      "Nehru Place"
+    ],
+    "droppingPoints": [
+      "Greater Kailash",
+      "Kalkaji",
+      "Lajpat Nagar",
+      "Vasant Vihar",
+      "Mehrauli"
+    ]
+  },
+  {
+    "city": "east Delhi",
+    "boardingPoints": [
+      "Preet Vihar",
+      "Laxmi Nagar",
+      "Anand Vihar",
+      "Karkardooma",
+      "Patparganj"
+    ],
+    "droppingPoints": [
+      "Mayur Vihar",
+      "Vivek Vihar",
+      "Shahdara",
+      "Geeta Colony",
+      "Pandav Nagar"
+    ]
+  },
+  {
+    "city": "west Delhi",
+    "boardingPoints": [
+      "Tilak Nagar",
+      "Vikaspuri",
+      "Rajouri Garden",
+      "Janakpuri",
+      "Paschim Vihar"
+    ],
+    "droppingPoints": [
+      "Hari Nagar",
+      "Dwarka Mor",
+      "Uttam Nagar",
+      "Subhash Nagar",
+      "Tagore Garden"
+    ]
+  },
+  {
+    "city": "central Delhi",
+    "boardingPoints": [
+      "Connaught Place",
+      "Karol Bagh",
+      "Paharganj",
+      "Rajendra Place",
+      "Daryaganj"
+    ],
+    "droppingPoints": [
+      "I P Estate",
+      "Ajmeri Gate",
+      "Chandni Chowk",
+      "Barakhamba",
+      "Ramlila Maidan"
+    ]
+  },
+  {
+    "city": "dwarka",
+    "boardingPoints": [
+      "Dwarka Sector 21",
+      "Dwarka Sector 12",
+      "Dwarka Sector 6",
+      "Dwarka Mor",
+      "Dwarka Sector 10"
+    ],
+    "droppingPoints": [
+      "Dwarka Sector 9",
+      "Dwarka Sector 19",
+      "Dwarka Sector 23",
+      "Najafgarh",
+      "Uttam Nagar"
+    ]
+  },
+  {
+    "city": "rohini",
+    "boardingPoints": [
+      "Rohini Sector 3",
+      "Rohini Sector 7",
+      "Rohini West Metro",
+      "Rohini East Metro",
+      "Pitampura"
+    ],
+    "droppingPoints": [
+      "Rithala",
+      "Prashant Vihar",
+      "Mangolpuri",
+      "Saraswati Vihar",
+      "Netaji Subhash Place"
+    ]
+  },
+  {
+    "city": "karol Bagh",
+    "boardingPoints": [
+      "Karol Bagh Metro",
+      "Ajmal Khan Road",
+      "Dev Nagar",
+      "Pusa Road",
+      "Rajendra Nagar"
+    ],
+    "droppingPoints": [
+      "Ghaffar Market",
+      "Patel Nagar",
+      "Connaught Place",
+      "Ramesh Nagar",
+      "Shadipur"
+    ]
+  },
+  {
+    "city": "lajpat Nagar",
+    "boardingPoints": [
+      "Lajpat Nagar Metro",
+      "Amar Colony",
+      "Vinoba Puri",
+      "Defence Colony",
+      "Ashram"
+    ],
+    "droppingPoints": [
+      "Moolchand",
+      "Kailash Colony",
+      "Kalka Ji",
+      "Nehru Place",
+      "Greater Kailash"
+    ]
+  },
+  {
+    "city": "saket",
+    "boardingPoints": [
+      "Saket Metro",
+      "Select City Walk",
+      "Saidulajab",
+      "Malviya Nagar",
+      "PVR Saket"
+    ],
+    "droppingPoints": [
+      "Qutub Minar",
+      "Mehrauli",
+      "Vasant Kunj",
+      "Pushp Vihar",
+      "Chhattarpur"
+    ]
+  },
+  {
+    "city": "vasant Kunj",
+    "boardingPoints": [
+      "Nelson Mandela Road",
+      "Masoodpur",
+      "Fortis Hospital",
+      "DLF Promenade",
+      "Mahipalpur"
+    ],
+    "droppingPoints": [
+      "Aruna Asaf Ali Road",
+      "Vasant Vihar",
+      "Chhattarpur",
+      "Qutub Minar",
+      "Rangpuri"
+    ]
+  },
+  {
+    "city": "connaught Place",
+    "boardingPoints": [
+      "Rajiv Chowk Metro",
+      "PVR Plaza",
+      "Janpath",
+      "Hanuman Road",
+      "Barakhamba Road"
+    ],
+    "droppingPoints": [
+      "India Gate",
+      "Mandi House",
+      "Patel Chowk",
+      "Shivaji Stadium",
+      "Ramakrishna Ashram"
+    ]
+  },
+  {
+    "city": "janakpuri",
+    "boardingPoints": [
+      "Janakpuri West Metro",
+      "C4E Market",
+      "Janakpuri District Centre",
+      "Tilak Nagar",
+      "Uttam Nagar"
+    ],
+    "droppingPoints": [
+      "Vikas Puri",
+      "Hari Nagar",
+      "Subhash Nagar",
+      "Tagore Garden",
+      "Dwarka Mor"
+    ]
+  },
+  {
+    "city": "shahdara",
+    "boardingPoints": [
+      "Shahdara Metro",
+      "Seemapuri",
+      "Dilshad Garden",
+      "Vivek Vihar",
+      "Yamuna Vihar"
+    ],
+    "droppingPoints": [
+      "Loni Road",
+      "Maujpur",
+      "Welcome",
+      "Geeta Colony",
+      "Anand Vihar"
+    ]
+  },
+  {
+    "city": "lucknow",
+    "boardingPoints": [
+      "Alambagh",
+      "Charbagh",
+      "Aminabad",
+      "Indira Nagar",
+      "Hazratganj"
+    ],
+    "droppingPoints": [
+      "Gomti Nagar",
+      "Transport Nagar",
+      "Rajajipuram",
+      "Sitapur Road",
+      "Chinhat"
+    ]
+  },
+  {
+    "city": "kanpur",
+    "boardingPoints": [
+      "Rawatpur",
+      "Govind Nagar",
+      "Swaroop Nagar",
+      "Ratanlal Nagar",
+      "Kalyanpur"
+    ],
+    "droppingPoints": [
+      "Barra",
+      "Shastri Nagar",
+      "Lajpat Nagar",
+      "Kidwai Nagar",
+      "Panki"
+    ]
+  },
+  {
+    "city": "varanasi",
+    "boardingPoints": ["Cantt", "Sigra", "Bhelupur", "Lanka", "Maldahiya"],
+    "droppingPoints": [
+      "Assi Ghat",
+      "Dasaswamedh Ghat",
+      "Godowlia",
+      "Sarnath",
+      "Pandeypur"
+    ]
+  },
+  {
+    "city": "agra",
+    "boardingPoints": [
+      "Sadar Bazaar",
+      "Kamla Nagar",
+      "Taj Ganj",
+      "Civil Lines",
+      "Dayal Bagh"
+    ],
+    "droppingPoints": [
+      "Fatehabad Road",
+      "MG Road",
+      "Khandari",
+      "Trans Yamuna",
+      "Rakabganj"
+    ]
+  },
+  {
+    "city": "prayagraj",
+    "boardingPoints": [
+      "Civil Lines",
+      "Naini",
+      "Lukerganj",
+      "Kareli",
+      "George Town"
+    ],
+    "droppingPoints": [
+      "Daraganj",
+      "Jhunsi",
+      "Mumtaz Nagar",
+      "Allahpur",
+      "Bairhana"
+    ]
+  },
+  {
+    "city": "meerut",
+    "boardingPoints": [
+      "Shastri Nagar",
+      "Modipuram",
+      "Abu Lane",
+      "Begum Bridge",
+      "Ganga Nagar"
+    ],
+    "droppingPoints": [
+      "Pallavpuram",
+      "Lisari Gate",
+      "Surajkund",
+      "Hapur Road",
+      "Jagrati Vihar"
+    ]
+  },
+  {
+    "city": "ghaziabad",
+    "boardingPoints": [
+      "Kaushambi",
+      "Indirapuram",
+      "Raj Nagar",
+      "Vasundhara",
+      "Lohia Nagar"
+    ],
+    "droppingPoints": [
+      "Mohan Nagar",
+      "Sahibabad",
+      "Vaishali",
+      "Govindpuram",
+      "Crossings Republik"
+    ]
+  },
+  {
+    "city": "noida",
+    "boardingPoints": [
+      "Sector 18",
+      "Sector 62",
+      "Sector 15",
+      "Sector 137",
+      "Sector 50"
+    ],
+    "droppingPoints": [
+      "Sector 16",
+      "Sector 34",
+      "Sector 76",
+      "Sector 128",
+      "Sector 101"
+    ]
+  },
+  {
+    "city": "aligarh",
+    "boardingPoints": [
+      "Center Point",
+      "Dodpur",
+      "Rasalganj",
+      "Aligarh Muslim University",
+      "Jamia Urdu"
+    ],
+    "droppingPoints": [
+      "Quarsi",
+      "Surajpur",
+      "Mahfooz Nagar",
+      "Sasni Gate",
+      "Dhorra Mafi"
+    ]
+  },
+  {
+    "city": "bareilly",
+    "boardingPoints": [
+      "Civil Lines",
+      "Rajendra Nagar",
+      "Pilibhit Road",
+      "Subhash Nagar",
+      "Sanjay Nagar"
+    ],
+    "droppingPoints": [
+      "Izzatnagar",
+      "Clutterbuckganj",
+      "CB Ganj",
+      "Karamchari Colony",
+      "Satyendra Nagar"
+    ]
+  },
+  {
+    "city": "moradabad",
+    "boardingPoints": [
+      "Budh Bazaar",
+      "Kanth Road",
+      "Civil Lines",
+      "Mandi Chowk",
+      "Line Par"
+    ],
+    "droppingPoints": [
+      "Transport Nagar",
+      "Ashiyana Colony",
+      "Kathghar",
+      "Barwali",
+      "Kundanpur"
+    ]
+  },
+  {
+    "city": "gorakhpur",
+    "boardingPoints": [
+      "Railway Station",
+      "Golghar",
+      "Basharatpur",
+      "Asuran",
+      "Rustampur"
+    ],
+    "droppingPoints": [
+      "Chiluatal",
+      "Miyan Baza",
+      "Medical College",
+      "Kunraghat",
+      "Chargawan"
+    ]
+  },
+  {
+    "city": "jhansi",
+    "boardingPoints": [
+      "Sipri Bazar",
+      "Elite Chowk",
+      "Civil Lines",
+      "Gwalior Road",
+      "Manik Chowk"
+    ],
+    "droppingPoints": [
+      "Baragaon",
+      "Hansari",
+      "Laxmi Garden",
+      "Moth",
+      "Nandanpura"
+    ]
+  },
+  {
+    "city": "firozabad",
+    "boardingPoints": [
+      "Sadar Bazar",
+      "Ramnagar",
+      "Tundla",
+      "Kailash Nagar",
+      "Shikohabad Road"
+    ],
+    "droppingPoints": [
+      "Nai Mandi",
+      "Raja Ka Tal",
+      "Ekdil",
+      "Rahi Nagar",
+      "Hathras Road"
+    ]
+  },
+  {
+    "city": "saharanpur",
+    "boardingPoints": [
+      "Chilkana Road",
+      "Mission Compound",
+      "Dehradun Road",
+      "Gill Colony",
+      "Subhash Nagar"
+    ],
+    "droppingPoints": [
+      "Jwala Nagar",
+      "Ambala Road",
+      "Kashmiriganj",
+      "Sharda Nagar",
+      "Court Road"
+    ]
+  },
+  {
+    "city": "jaipur",
+    "boardingPoints": [
+      "Sindhi Camp",
+      "Vaishali Nagar",
+      "Mansarovar",
+      "Malviya Nagar",
+      "C-Scheme"
+    ],
+    "droppingPoints": [
+      "Amer Road",
+      "Bani Park",
+      "Jagatpura",
+      "Sodala",
+      "Tonk Road"
+    ]
+  },
+  {
+    "city": "jodhpur",
+    "boardingPoints": [
+      "Paota",
+      "Ratanada",
+      "Chopasni Housing Board",
+      "Sardarpura",
+      "Mandore"
+    ],
+    "droppingPoints": [
+      "Shastri Nagar",
+      "Basu Bas",
+      "Residency Road",
+      "Sojati Gate",
+      "Banar"
+    ]
+  },
+  {
+    "city": "kota",
+    "boardingPoints": [
+      "Talwandi",
+      "Gumanpura",
+      "Vigyan Nagar",
+      "Chawani",
+      "Kunhadi"
+    ],
+    "droppingPoints": [
+      "Dadabari",
+      "Indraprastha Industrial Area",
+      "Mahaveer Nagar",
+      "Keshavpura",
+      "Railway Colony"
+    ]
+  },
+  {
+    "city": "udaipur",
+    "boardingPoints": [
+      "Hiran Magri",
+      "Surajpole",
+      "Fatehpura",
+      "Bapu Bazaar",
+      "Pratap Nagar"
+    ],
+    "droppingPoints": [
+      "Goverdhan Vilas",
+      "Ambamata",
+      "Shobhagpura",
+      "Kumbhalgarh Road",
+      "Rani Road"
+    ]
+  },
+  {
+    "city": "ajmer",
+    "boardingPoints": [
+      "Kesar Ganj",
+      "Dargah Bazaar",
+      "Vaishali Nagar",
+      "Naka Madar",
+      "Civil Lines"
+    ],
+    "droppingPoints": [
+      "Anasagar Lake",
+      "Adarsh Nagar",
+      "Kutchery Road",
+      "Topdara",
+      "Makhupura"
+    ]
+  },
+  {
+    "city": "bikaner",
+    "boardingPoints": [
+      "Rani Bazar",
+      "Lalgarh",
+      "Ganga Nagar Road",
+      "Pawanpuri",
+      "Shivbari"
+    ],
+    "droppingPoints": [
+      "Junagarh Fort",
+      "Murlidhar Vyas Colony",
+      "Jassusar Gate",
+      "Gangashahar",
+      "Karni Colony"
+    ]
+  },
+  {
+    "city": "alwar",
+    "boardingPoints": [
+      "Moti Doongri",
+      "Lajpat Nagar",
+      "Kalakand Market",
+      "Budh Vihar",
+      "Hasan Khan Mewati Nagar"
+    ],
+    "droppingPoints": [
+      "Aravali Vihar",
+      "Surya Nagar",
+      "Gopalgarh",
+      "Ambedkar Circle",
+      "MIA"
+    ]
+  },
+  {
+    "city": "bhilwara",
+    "boardingPoints": [
+      "Shastri Nagar",
+      "Azad Nagar",
+      "Pur Road",
+      "Subhash Nagar",
+      "Gulmohar Colony"
+    ],
+    "droppingPoints": [
+      "Bhopal Ganj",
+      "Harni Mahadev",
+      "Sangam Nagar",
+      "Chittor Road",
+      "Sector 3"
+    ]
+  },
+  {
+    "city": "sikar",
+    "boardingPoints": [
+      "Station Road",
+      "Neem Ka Thana Road",
+      "Palsana",
+      "Bajaj Road",
+      "Shivsinghpura"
+    ],
+    "droppingPoints": [
+      "Industrial Area",
+      "Ramgarh Road",
+      "Salasar",
+      "Fatehpur Road",
+      "Gokulpura"
+    ]
+  },
+  {
+    "city": "pali",
+    "boardingPoints": [
+      "Jawai Bandh Road",
+      "Bangur Nagar",
+      "Mandia Road",
+      "Lakhotia",
+      "Surajpole"
+    ],
+    "droppingPoints": [
+      "Sumerpur",
+      "Rani Station Road",
+      "Falna Road",
+      "Hanwant Nagar",
+      "Purwa"
+    ]
+  },
+  {
+    "city": "tonk",
+    "boardingPoints": [
+      "Chandlai",
+      "Civil Lines",
+      "Raj Talkies Road",
+      "Malpura Road",
+      "Kha Tiraha"
+    ],
+    "droppingPoints": [
+      "Subhash Bazar",
+      "Khandi Road",
+      "Janta Colony",
+      "Gandhi Nagar",
+      "Indira Colony"
+    ]
+  },
+  {
+    "city": "chittorgarh",
+    "boardingPoints": [
+      "Collectorate Circle",
+      "Gandhi Nagar",
+      "Kumbha Nagar",
+      "Padmini Chowk",
+      "Pratap Nagar"
+    ],
+    "droppingPoints": [
+      "Rana Sanga Market",
+      "Meera Nagar",
+      "Bassi Road",
+      "Sainik Colony",
+      "Fort Road"
+    ]
+  },
+  {
+    "city": "nagaur",
+    "boardingPoints": [
+      "Basant Vihar",
+      "Gandhi Chowk",
+      "Shivaji Colony",
+      "Indira Colony",
+      "Old City"
+    ],
+    "droppingPoints": [
+      "Sadar Bazar",
+      "Kuchaman Road",
+      "Didwana Road",
+      "Kharia",
+      "Merta Road"
+    ]
+  },
+  {
+    "city": "barmer",
+    "boardingPoints": [
+      "Indira Colony",
+      "Ramesh Colony",
+      "Station Road",
+      "Mahaveer Nagar",
+      "Sindhari"
+    ],
+    "droppingPoints": [
+      "Bhatia Colony",
+      "Sadar Bazar",
+      "Chohtan Road",
+      "Guda Road",
+      "Balotra Road"
+    ]
+  },
+  {
+    "city": "jaisalmer",
+    "boardingPoints": [
+      "Hanuman Circle",
+      "Gadisar Road",
+      "Shiv Road",
+      "Panchayat Samiti",
+      "Police Line"
+    ],
+    "droppingPoints": [
+      "Sam Sand Dunes",
+      "Indira Colony",
+      "Kuldhara Road",
+      "Air Force Circle",
+      "Amarsagar Road"
+    ]
+  },
+  {
+    "city": "ludhiana",
+    "boardingPoints": [
+      "Gill Road",
+      "Model Town",
+      "Samrala Chowk",
+      "Ferozepur Road",
+      "Jagraon Bridge"
+    ],
+    "droppingPoints": [
+      "Industrial Area",
+      "BRS Nagar",
+      "Sarabha Nagar",
+      "Bus Stand",
+      "Pakhowal Road"
+    ]
+  },
+  {
+    "city": "amritsar",
+    "boardingPoints": [
+      "Ranjit Avenue",
+      "Hall Bazar",
+      "Putlighar",
+      "Batala Road",
+      "Katra Jaimal Singh"
+    ],
+    "droppingPoints": [
+      "Golden Temple Road",
+      "Lawrence Road",
+      "Mall Road",
+      "Sultanwind",
+      "Verka"
+    ]
+  },
+  {
+    "city": "jalandhar",
+    "boardingPoints": [
+      "Ladowali Road",
+      "Model Town",
+      "GT Road",
+      "Maqsudan",
+      "BMC Chowk"
+    ],
+    "droppingPoints": [
+      "Railway Road",
+      "Adarsh Nagar",
+      "Urban Estate",
+      "Nakodar Road",
+      "Basti Sheikh"
+    ]
+  },
+  {
+    "city": "patiala",
+    "boardingPoints": [
+      "Leela Bhawan",
+      "Tripuri",
+      "Urban Estate",
+      "Sanauri Adda",
+      "Baradari"
+    ],
+    "droppingPoints": [
+      "Anand Nagar",
+      "Sirhind Road",
+      "Charan Bagh",
+      "Sheran Wala Gate",
+      "Bhadson Road"
+    ]
+  },
+  {
+    "city": "bathinda",
+    "boardingPoints": [
+      "Goniana Road",
+      "Parasram Nagar",
+      "Civil Lines",
+      "Power House Road",
+      "Talwandi Sabo Road"
+    ],
+    "droppingPoints": [
+      "Bhucho Mandi",
+      "Rampura Phul",
+      "Railway Colony",
+      "Balluana",
+      "Thermal Colony"
+    ]
+  },
+  {
+    "city": "mohali",
+    "boardingPoints": [
+      "Phase 1",
+      "Phase 3B2",
+      "Sector 70",
+      "Sector 79",
+      "Phase 7"
+    ],
+    "droppingPoints": [
+      "Sector 67",
+      "Phase 11",
+      "Sector 76",
+      "Industrial Area",
+      "Phase 9"
+    ]
+  },
+  {
+    "city": "hoshiarpur",
+    "boardingPoints": [
+      "Railway Road",
+      "Model Town",
+      "Court Road",
+      "Tanda Road",
+      "Phagwara Road"
+    ],
+    "droppingPoints": [
+      "Mukerian Road",
+      "Sham Chaurasi",
+      "Urban Estate",
+      "Bulhowal",
+      "Chabbewal"
+    ]
+  },
+  {
+    "city": "moga",
+    "boardingPoints": [
+      "Bus Stand",
+      "Ferozepur Road",
+      "Ajitwal",
+      "Gill Road",
+      "Badhni Kalan"
+    ],
+    "droppingPoints": [
+      "Kot Ise Khan",
+      "Dharamkot",
+      "Baghapurana",
+      "Ghal Kalan",
+      "Landeke"
+    ]
+  },
+  {
+    "city": "pathankot",
+    "boardingPoints": [
+      "Mission Road",
+      "Dalhousie Road",
+      "Mamun",
+      "Mamoon Cantt",
+      "Gandhi Chowk"
+    ],
+    "droppingPoints": [
+      "Sujanpur",
+      "Dhangu Road",
+      "Shastri Nagar",
+      "Jasrota Road",
+      "Defense Colony"
+    ]
+  },
+  {
+    "city": "kapurthala",
+    "boardingPoints": [
+      "Railway Station",
+      "Bus Stand",
+      "Sultanpur Road",
+      "Model Town",
+      "Court Road"
+    ],
+    "droppingPoints": [
+      "Urban Estate",
+      "Randhirpur Road",
+      "Fatehpur",
+      "Jalandhar Road",
+      "Bholath Road"
+    ]
+  },
+  {
+    "city": "firozpur",
+    "boardingPoints": [
+      "Mallanwala",
+      "City Center",
+      "Ferozepur Cantt",
+      "Railway Road",
+      "Faridkot Road"
+    ],
+    "droppingPoints": [
+      "Makhu Road",
+      "Zira Road",
+      "Basti Tankanwali",
+      "Talwandi Bhai",
+      "Sadiq Road"
+    ]
+  },
+  {
+    "city": "sangrur",
+    "boardingPoints": [
+      "Bus Stand",
+      "Barnala Road",
+      "Dhuri Road",
+      "Patiala Road",
+      "Bajrang Colony"
+    ],
+    "droppingPoints": [
+      "Sunam Road",
+      "Lehragaga Road",
+      "Moti Bagh",
+      "Urban Estate",
+      "Shivaji Colony"
+    ]
+  },
+  {
+    "city": "phagwara",
+    "boardingPoints": [
+      "GT Road",
+      "Urban Estate",
+      "Railway Road",
+      "Friends Colony",
+      "Model Town"
+    ],
+    "droppingPoints": [
+      "Hadiabad",
+      "Banga Road",
+      "Satnampura",
+      "Sugar Mill Road",
+      "Sukhchain Nagar"
+    ]
+  },
+  {
+    "city": "barnala",
+    "boardingPoints": [
+      "Handiaya Road",
+      "Model Town",
+      "Court Road",
+      "Railway Station",
+      "Sadar Bazar"
+    ],
+    "droppingPoints": [
+      "Urban Estate",
+      "Katcha College Road",
+      "Bhadaur Road",
+      "Gurudwara Road",
+      "Patiala Road"
+    ]
+  },
+  {
+    "city": "gurdaspur",
+    "boardingPoints": [
+      "Civil Lines",
+      "Railway Road",
+      "Hanuman Chowk",
+      "Shastri Nagar",
+      "Kalanaur Road"
+    ],
+    "droppingPoints": [
+      "Batala Road",
+      "Fatehgarh Churian Road",
+      "Urban Estate",
+      "Jhawar Road",
+      "Bariar Road"
+    ]
+  },
+
+  {
+    "city": "kolkata",
+    "boardingPoints": [
+      "Esplanade",
+      "Howrah Station",
+      "Salt Lake Sector V",
+      "Park Street",
+      "Dumdum"
+    ],
+    "droppingPoints": ["Sealdah", "Garia", "Behala", "Tollygunge", "New Town"]
+  },
+  {
+    "city": "howrah",
+    "boardingPoints": ["Shibpur", "Santragachi", "Liluah", "Domjur", "Belur"],
+    "droppingPoints": [
+      "Uluberia",
+      "Andul",
+      "Bally",
+      "Kona Expressway",
+      "Makardaha"
+    ]
+  },
+  {
+    "city": "durgapur",
+    "boardingPoints": [
+      "City Center",
+      "Benachity",
+      "Muchipara",
+      "Bidhannagar",
+      "Rajbandh"
+    ],
+    "droppingPoints": [
+      "Steel Township",
+      "Andal",
+      "A-Zone",
+      "Gandhi More",
+      "Fuljhore"
+    ]
+  },
+  {
+    "city": "asansol",
+    "boardingPoints": [
+      "Burnpur",
+      "Court More",
+      "Hutton Road",
+      "Kanyapur",
+      "Rahmatnagar"
+    ],
+    "droppingPoints": [
+      "Ushagram",
+      "Chandmari",
+      "Railway Colony",
+      "Gopalpur",
+      "Sitarampur"
+    ]
+  },
+  {
+    "city": "siliguri",
+    "boardingPoints": [
+      "Sevoke Road",
+      "Jalpaiguri Road",
+      "Pradhan Nagar",
+      "Salbari",
+      "Hill Cart Road"
+    ],
+    "droppingPoints": [
+      "Matigara",
+      "Darjeeling More",
+      "Shiv Mandir",
+      "Bidhannagar",
+      "Bagdogra"
+    ]
+  },
+  {
+    "city": "malda",
+    "boardingPoints": [
+      "English Bazar",
+      "Rathbari",
+      "Chanchal",
+      "Kaliachak",
+      "Gazole"
+    ],
+    "droppingPoints": [
+      "Old Malda",
+      "Habibpur",
+      "Sujapur",
+      "Bulbulchandi",
+      "Manikchak"
+    ]
+  },
+  {
+    "city": "kharagpur",
+    "boardingPoints": [
+      "Inda",
+      "Prem Bazaar",
+      "Malanchapara",
+      "Hijli",
+      "Chandmari"
+    ],
+    "droppingPoints": [
+      "Kaliabeda",
+      "Kalaikunda",
+      "Haldia Gate",
+      "Golebazar",
+      "Midnapore Road"
+    ]
+  },
+  {
+    "city": "haldia",
+    "boardingPoints": [
+      "Durgachak",
+      "Chakdwipa",
+      "Banbishnupur",
+      "Barda",
+      "Bhabanipur"
+    ],
+    "droppingPoints": [
+      "Haldia Dock",
+      "City Centre",
+      "Ranichak",
+      "Bauria",
+      "Mahishadal"
+    ]
+  },
+  {
+    "city": "burdwan",
+    "boardingPoints": [
+      "Grand Trunk Road",
+      "Rajbati",
+      "Golapbag",
+      "Kalna Road",
+      "Shyamsayer"
+    ],
+    "droppingPoints": [
+      "Uttarpara",
+      "Katwa Road",
+      "Birhata",
+      "Khosbagan",
+      "Sripally"
+    ]
+  },
+  {
+    "city": "jalpaiguri",
+    "boardingPoints": [
+      "Sadar",
+      "Dakshinpara",
+      "Khalpara",
+      "Babupara",
+      "Shantinagar"
+    ],
+    "droppingPoints": [
+      "Mainaguri",
+      "Maynaguri Road",
+      "Rajganj",
+      "Dhupguri",
+      "Siliguri More"
+    ]
+  },
+  {
+    "city": "krishnanagar",
+    "boardingPoints": [
+      "Barabazar",
+      "Collectorate Road",
+      "Nimtala",
+      "Beledanga",
+      "Palpara"
+    ],
+    "droppingPoints": [
+      "Hanshkhali",
+      "Kalipur",
+      "Jalangi Road",
+      "Chakdaha",
+      "Bethuadahari"
+    ]
+  },
+  {
+    "city": "midnapore",
+    "boardingPoints": [
+      "Rabindra Nagar",
+      "Keranitola",
+      "Chakla",
+      "Raja Bazaar",
+      "Abasbari"
+    ],
+    "droppingPoints": [
+      "Khirpai",
+      "Salboni",
+      "Kharagpur Road",
+      "Garbeta",
+      "Goaltore"
+    ]
+  },
+  {
+    "city": "alipurduar",
+    "boardingPoints": [
+      "Newtown",
+      "Buxa Road",
+      "College Para",
+      "Railway Bazar",
+      "Madanmohan Para"
+    ],
+    "droppingPoints": [
+      "Falakata",
+      "Kalchini",
+      "Hasimara",
+      "Hamiltonganj",
+      "Jayanti Road"
+    ]
+  },
+  {
+    "city": "bankura",
+    "boardingPoints": [
+      "Bishnupur Road",
+      "Machantala",
+      "Kenduadihi",
+      "Ghorabandha",
+      "Kanchanpur"
+    ],
+    "droppingPoints": [
+      "Chhatna",
+      "Indpur",
+      "Khatra",
+      "Sonamukhi",
+      "Raipur Road"
+    ]
+  },
+  {
+    "city": "cooch Behar",
+    "boardingPoints": [
+      "Rash Mela Maidan",
+      "Sagardighi",
+      "Sunity Road",
+      "Rajbari Road",
+      "Madan Mohan Para"
+    ],
+    "droppingPoints": [
+      "Tufanganj",
+      "Mathabhanga",
+      "Dinhata",
+      "Ghughumari",
+      "Chakchaka"
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+.mybooking_contiamer {
+  margin-top: 100px;
+}
+.booking-contianer {
+  margin-top: 50px;
+  box-sizing: border-box;
+}
+.booking-card {
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  min-height: 150px;
+  transition: transform 0.3s ease;
+}
+
+.booking-card:hover {
+  transform: scale(1.02);
+}
+
+.booking-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.booking-info {
+  font-size: 14px;
+  margin: 4px 0;
+  color: black;
+}
+
+.booking-label {
+  font-weight: bold;
+  color: #333;
+}
+
+.booking-subtitle {
+  margin-top: 12px;
+  font-size: 16px;
+  color: #000;
+  font-weight: bold;
+}
+
+.booking-passenger-list {
+  list-style-type: disc;
+  padding-left: 18px;
+  margin-top: 8px;
+}
+
+.booking-passenger-item {
+  font-size: 14px;
+  margin-bottom: 3px;
+  color: #333;
+}
+
+.cancelBooking {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 15px auto 0;
+  background-color: rgb(116, 12, 12);
+  color: white;
+  font-size: 14px;
+  width: 150px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 200px;
+  transition: background-color 0.3s ease;
+}
+
+.cancelBooking:hover {
+  background-color: rgb(150, 20, 20);
+}
+
+.no-bookings {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 20px;
+  color: #888;
+  font-weight: bold;
+}
