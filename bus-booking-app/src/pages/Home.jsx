@@ -26,11 +26,18 @@ function Home() {
 
   const handleSearch = () => {
     if (!fromInput || !toInput || !dateInput) {
-      toast.error("Please select all fields: From, To, and Date.");
+      toast.error("Please select all fields: From, To, and Date.", {
+        position: "top-center",
+        autoClose: 3000,
+      });
       return;
     }
     if (fromInput === toInput) {
-      toast.error("From and To cities cannot be the same.");
+      toast.error("From and To cities cannot be the same.", {
+        position: "top-center",
+        autoClose: 3000,
+        className: "custom-margin-toast",
+      });
       return;
     }
     dispatch(fromAndTo({ from: fromInput, to: toInput, date: dateInput }));

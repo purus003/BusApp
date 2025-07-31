@@ -1,6 +1,5 @@
 import React from "react";
 import { useSelector } from "react-redux";
-import "bootstrap/dist/css/bootstrap.min.css";
 import "../css/allbookings.css";
 
 function Allbookings() {
@@ -8,10 +7,11 @@ function Allbookings() {
   const data = Array.isArray(allbookings) ? allbookings : [];
 
   return (
-    <div className="container mt-4">
-      <h2 className="text-light mb-3">All Buses Bookings</h2>
-      <table className="table table-dark table-hover table-bordered text-center align-middle shadow-lg">
-        <thead className="bg-secondary text-white">
+    <div className="allbookings-container">
+      <h2 className="allbookings-title">All Buses Bookings</h2>
+
+      <table className="allbookings-table">
+        <thead className="allbookings-header">
           <tr>
             <th>Booking ID</th>
             <th>User ID</th>
@@ -24,16 +24,17 @@ function Allbookings() {
             <th>Total Fare</th>
           </tr>
         </thead>
+
         <tbody>
           {data.length === 0 ? (
             <tr>
-              <td colSpan="9" className="text-center text-warning fw-bold">
+              <td colSpan="9" className="allbookings-empty">
                 No bookings available
               </td>
             </tr>
           ) : (
             data.map((b, index) => (
-              <tr key={b?.id ?? index}>
+              <tr className="allbookings-row" key={b?.id ?? index}>
                 <td>{b?.id}</td>
                 <td>{b?.userId}</td>
                 <td>{b?.busId}</td>
@@ -43,7 +44,7 @@ function Allbookings() {
                 <td>{Array.isArray(b?.seat) ? b.seat.join(", ") : "-"}</td>
                 <td>
                   {Array.isArray(b?.passengerDetails) ? (
-                    <ul className="list-unstyled mb-0">
+                    <ul className="allbookings-passengers">
                       {b.passengerDetails.map((p, i) => (
                         <li key={i}>
                           {p.name} | {p.age} | {p.gender}
@@ -54,7 +55,7 @@ function Allbookings() {
                     "-"
                   )}
                 </td>
-                <td>₹{b?.totalFare ?? 0}</td>
+                <td className="allbookings-fare">₹{b?.totalFare ?? 0}</td>
               </tr>
             ))
           )}

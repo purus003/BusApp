@@ -90,7 +90,6 @@
   background: pink !important;
 }
 
-/* Aisle */
 .buspg-gap {
   width: 40px;
 }
@@ -132,7 +131,7 @@
 .legend-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px; /* reduced gap */
+  gap: 10px;
   justify-content: center;
   align-items: center;
 }
@@ -140,15 +139,15 @@
 .legend-item {
   display: flex;
   align-items: center;
-  gap: 6px; /* reduced spacing */
-  font-size: 14px; /* smaller text */
+  gap: 6px;
+  font-size: 14px;
 }
 
 .seat-img1,
 .seat-img2,
 .seat-img3,
 .seat-img4 {
-  width: 25px; /* reduced seat size */
+  width: 25px;
   height: 25px;
   object-fit: contain;
   border-radius: 50%;

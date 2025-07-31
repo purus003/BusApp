@@ -136,7 +136,7 @@
   transition: background 0.3s;
 }
 
-.button-group button[type="submit"] {
+.proceed-btn {
   background-color: rgb(42, 105, 42);
   color: #fff;
 }

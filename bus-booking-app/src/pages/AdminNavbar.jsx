@@ -64,6 +64,8 @@ export default function AdminNavbar() {
             className="admin-navbar__icon"
             onClick={() => setDropdownOpen(!dropdownOpen)}
           />
+          {/* <br /> */}
+          {/* {user?.name || "Guest"} */}
 
           {/* Dropdown */}
           {dropdownOpen && (
@@ -84,12 +86,12 @@ export default function AdminNavbar() {
               <p>{user?.email}</p>
               <p>{user?.mobile}</p>
               <hr />
-              <button
+              {/* <button
                 className="dropdown-item"
                 onClick={() => navigate("/mybookings")}
               >
                 My Bookings
-              </button>
+              </button> */}
               <button
                 className="dropdown-item"
                 onClick={() => navigate("/allbookings")}

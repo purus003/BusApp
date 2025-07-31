@@ -6,9 +6,19 @@
       "Ameerpet",
       "Kukatpally",
       "LB Nagar",
-      "Mehdipatnam"
+      "Mehdipatnam",
+      "Koti",
+      "Charminar",
+      "Secunderabad",
+      "Hitech City",
+      "Dilsukhnagar"
     ],
     "droppingPoints": [
+      "Miyapur",
+      "Ameerpet",
+      "Kukatpally",
+      "LB Nagar",
+      "Mehdipatnam",
       "Koti",
       "Charminar",
       "Secunderabad",
@@ -23,9 +33,19 @@
       "Maddilapalem",
       "Dwaraka Nagar",
       "Gopalapatnam",
-      "RTC Complex"
+      "RTC Complex",
+      "MVP Colony",
+      "Dabagardens",
+      "Seethammadhara",
+      "NAD Junction",
+      "Akkayyapalem"
     ],
     "droppingPoints": [
+      "Gajuwaka",
+      "Maddilapalem",
+      "Dwaraka Nagar",
+      "Gopalapatnam",
+      "RTC Complex",
       "MVP Colony",
       "Dabagardens",
       "Seethammadhara",
@@ -40,9 +60,19 @@
       "Auto Nagar",
       "Ramavarappadu",
       "Krishna Lanka",
-      "Vidhyadharapuram"
+      "Vidhyadharapuram",
+      "Gollapudi",
+      "Kanuru",
+      "Currency Nagar",
+      "PNBS",
+      "Patamata"
     ],
     "droppingPoints": [
+      "Benz Circle",
+      "Auto Nagar",
+      "Ramavarappadu",
+      "Krishna Lanka",
+      "Vidhyadharapuram",
       "Gollapudi",
       "Kanuru",
       "Currency Nagar",
@@ -57,9 +87,19 @@
       "Hanamkonda",
       "Subedari",
       "MGM Hospital",
-      "Mulugu Road"
+      "Mulugu Road",
+      "Station Road",
+      "Nakkalagutta",
+      "LB Nagar",
+      "Balasamudram",
+      "Fort Road"
     ],
     "droppingPoints": [
+      "Kazipet",
+      "Hanamkonda",
+      "Subedari",
+      "MGM Hospital",
+      "Mulugu Road",
       "Station Road",
       "Nakkalagutta",
       "LB Nagar",
@@ -74,9 +114,19 @@
       "Brodipet",
       "Lakshmipuram",
       "Arundelpet",
-      "Chandramoulinagar"
+      "Chandramoulinagar",
+      "Sattenapalle Road",
+      "Railway Station",
+      "NGO Colony",
+      "Pattabhipuram",
+      "Sangadigunta"
     ],
     "droppingPoints": [
+      "Nallapadu",
+      "Brodipet",
+      "Lakshmipuram",
+      "Arundelpet",
+      "Chandramoulinagar",
       "Sattenapalle Road",
       "Railway Station",
       "NGO Colony",
@@ -91,9 +141,19 @@
       "Tiruchanoor",
       "Balaji Colony",
       "RC Road",
-      "Air Bypass Road"
+      "Air Bypass Road",
+      "Bus Stand",
+      "Railway Station",
+      "Kapila Theertham",
+      "Alipiri",
+      "Srinivasa Nagar"
     ],
     "droppingPoints": [
+      "Renigunta",
+      "Tiruchanoor",
+      "Balaji Colony",
+      "RC Road",
+      "Air Bypass Road",
       "Bus Stand",
       "Railway Station",
       "Kapila Theertham",
@@ -108,9 +168,19 @@
       "RTC Bus Stand",
       "Mini Bypass",
       "Nawabpeta",
-      "Podalakur Road"
+      "Podalakur Road",
+      "Stonehousepet",
+      "B.V. Nagar",
+      "Haritha Hotel",
+      "VRC Center",
+      "Chemudugunta"
     ],
     "droppingPoints": [
+      "Magunta Layout",
+      "RTC Bus Stand",
+      "Mini Bypass",
+      "Nawabpeta",
+      "Podalakur Road",
       "Stonehousepet",
       "B.V. Nagar",
       "Haritha Hotel",
@@ -125,9 +195,19 @@
       "C Camp",
       "Nehru Nagar",
       "B Camp",
-      "Rayalaseema University"
+      "Rayalaseema University",
+      "APSRTC Bus Stand",
+      "Orvakal",
+      "Nandyal Checkpost",
+      "Joharapuram",
+      "Sree Rama Nagar"
     ],
     "droppingPoints": [
+      "Bellary Chowrasta",
+      "C Camp",
+      "Nehru Nagar",
+      "B Camp",
+      "Rayalaseema University",
       "APSRTC Bus Stand",
       "Orvakal",
       "Nandyal Checkpost",
@@ -142,9 +222,19 @@
       "Danavaipeta",
       "Morampudi",
       "Tilak Road",
-      "RTC Complex"
+      "RTC Complex",
+      "Godavari Railway Station",
+      "Aryapuram",
+      "Devi Chowk",
+      "Kambala Tank",
+      "Syamalanagar"
     ],
     "droppingPoints": [
+      "Kotipalli Bus Stand",
+      "Danavaipeta",
+      "Morampudi",
+      "Tilak Road",
+      "RTC Complex",
       "Godavari Railway Station",
       "Aryapuram",
       "Devi Chowk",
@@ -159,9 +249,19 @@
       "Hyderabad Road",
       "Armoor",
       "Gangastan",
-      "Bus Stand"
+      "Bus Stand",
+      "Railway Station",
+      "Subhash Nagar",
+      "Dichpally",
+      "Vinayak Nagar",
+      "Collector Office"
     ],
     "droppingPoints": [
+      "Bodhan Road",
+      "Hyderabad Road",
+      "Armoor",
+      "Gangastan",
+      "Bus Stand",
       "Railway Station",
       "Subhash Nagar",
       "Dichpally",
@@ -176,9 +276,19 @@
       "Mancherial Chowk",
       "Kothirampur",
       "Collectorate",
-      "Ramnagar"
+      "Ramnagar",
+      "Peddapalli Road",
+      "RTC Bus Stand",
+      "Jagityal Chowrasta",
+      "Sapthagiri",
+      "Karimnagar Court"
     ],
     "droppingPoints": [
+      "Vavilalapally",
+      "Mancherial Chowk",
+      "Kothirampur",
+      "Collectorate",
+      "Ramnagar",
       "Peddapalli Road",
       "RTC Bus Stand",
       "Jagityal Chowrasta",
@@ -193,9 +303,19 @@
       "Bus Stand",
       "Wyra Road",
       "Mamata Hospital",
-      "Bhimadole"
+      "Bhimadole",
+      "Venkatagiri",
+      "Mitra Hills",
+      "RTO Office",
+      "New Bus Station",
+      "Bonakal"
     ],
     "droppingPoints": [
+      "Nehru Nagar",
+      "Bus Stand",
+      "Wyra Road",
+      "Mamata Hospital",
+      "Bhimadole",
       "Venkatagiri",
       "Mitra Hills",
       "RTO Office",
@@ -210,9 +330,19 @@
       "Silk Board",
       "BTM Layout",
       "Electronic City",
-      "KR Puram"
+      "KR Puram",
+      "Hebbal",
+      "Yeshwantpur",
+      "Marathahalli",
+      "Whitefield",
+      "Jayanagar"
     ],
     "droppingPoints": [
+      "Majestic",
+      "Silk Board",
+      "BTM Layout",
+      "Electronic City",
+      "KR Puram",
       "Hebbal",
       "Yeshwantpur",
       "Marathahalli",
@@ -227,9 +357,19 @@
       "Bogadi",
       "Chamundi Hill",
       "Lashkar Mohalla",
-      "Jayanagar"
+      "Jayanagar",
+      "Railway Station",
+      "KR Circle",
+      "Saraswathipuram",
+      "Metagalli",
+      "Bannimantap"
     ],
     "droppingPoints": [
+      "Kuvempunagar",
+      "Bogadi",
+      "Chamundi Hill",
+      "Lashkar Mohalla",
+      "Jayanagar",
       "Railway Station",
       "KR Circle",
       "Saraswathipuram",
@@ -239,8 +379,24 @@
   },
   {
     "city": "mangaluru",
-    "boardingPoints": ["Hampankatta", "Kankanady", "Kadri", "Bejai", "Lalbagh"],
+    "boardingPoints": [
+      "Hampankatta",
+      "Kankanady",
+      "Kadri",
+      "Bejai",
+      "Lalbagh",
+      "Statebank",
+      "Urva",
+      "Surathkal",
+      "Pumpwell",
+      "Thokkottu"
+    ],
     "droppingPoints": [
+      "Hampankatta",
+      "Kankanady",
+      "Kadri",
+      "Bejai",
+      "Lalbagh",
       "Statebank",
       "Urva",
       "Surathkal",
@@ -255,9 +411,19 @@
       "Gokul Road",
       "Old Hubli",
       "Vidya Nagar",
-      "New Bus Stand"
+      "New Bus Stand",
+      "Keshwapur",
+      "Railway Station",
+      "Navanagar",
+      "KIMS Hospital",
+      "Gadag Road"
     ],
     "droppingPoints": [
+      "Deshpande Nagar",
+      "Gokul Road",
+      "Old Hubli",
+      "Vidya Nagar",
+      "New Bus Stand",
       "Keshwapur",
       "Railway Station",
       "Navanagar",
@@ -272,9 +438,19 @@
       "Udyambag",
       "Ramteerth Nagar",
       "Kangrali",
-      "Fort Road"
+      "Fort Road",
+      "Angol",
+      "Gogte Circle",
+      "Bus Stand",
+      "Club Road",
+      "Ashok Nagar"
     ],
     "droppingPoints": [
+      "Tilakwadi",
+      "Udyambag",
+      "Ramteerth Nagar",
+      "Kangrali",
+      "Fort Road",
       "Angol",
       "Gogte Circle",
       "Bus Stand",
@@ -289,9 +465,19 @@
       "Hadadi Road",
       "Mandipet",
       "Vidyanagar",
-      "KTJ Nagar"
+      "KTJ Nagar",
+      "Railway Station",
+      "PB Road",
+      "GMIT College",
+      "Bus Stand",
+      "Basaveshwara Colony"
     ],
     "droppingPoints": [
+      "Shivaji Nagar",
+      "Hadadi Road",
+      "Mandipet",
+      "Vidyanagar",
+      "KTJ Nagar",
       "Railway Station",
       "PB Road",
       "GMIT College",
@@ -306,9 +492,19 @@
       "TB Dam",
       "Cantonment",
       "Ananthapur Road",
-      "Kolagallu"
+      "Kolagallu",
+      "City Bus Stand",
+      "Ballari Fort",
+      "Brucepet",
+      "Kappagal Road",
+      "Moka Road"
     ],
     "droppingPoints": [
+      "Gandhi Nagar",
+      "TB Dam",
+      "Cantonment",
+      "Ananthapur Road",
+      "Kolagallu",
       "City Bus Stand",
       "Ballari Fort",
       "Brucepet",
@@ -323,9 +519,19 @@
       "Sapthagiri Circle",
       "Raju Road",
       "Old Town",
-      "Clock Tower"
+      "Clock Tower",
+      "Kalyandurg Road",
+      "Anjaiah Road",
+      "Gooty Road",
+      "SK University",
+      "Housing Board"
     ],
     "droppingPoints": [
+      "RTC Bus Stand",
+      "Sapthagiri Circle",
+      "Raju Road",
+      "Old Town",
+      "Clock Tower",
       "Kalyandurg Road",
       "Anjaiah Road",
       "Gooty Road",
@@ -339,20 +545,49 @@
       "Mahbubnagar Bus Stand",
       "New Bus Station",
       "Shadnagar",
-      "Boothpur"
+      "Boothpur",
+      "Jadcherla"
     ],
-    "droppingPoints": ["Mahbubnagar Bus Stand", "Jadcherla", "New Bus Station"]
+    "droppingPoints": [
+      "Mahbubnagar Bus Stand",
+      "New Bus Station",
+      "Shadnagar",
+      "Boothpur",
+      "Jadcherla"
+    ]
   },
   {
     "city": "suryapet",
-    "boardingPoints": ["Suryapet Bypass", "New Bus Stand", "Kodad Road"],
-    "droppingPoints": ["Suryapet Main", "Collector Office", "Bus Depot"]
+    "boardingPoints": [
+      "Suryapet Bypass",
+      "New Bus Stand",
+      "Kodad Road",
+      "Suryapet Main",
+      "Collector Office",
+      "Bus Depot"
+    ],
+    "droppingPoints": [
+      "Suryapet Bypass",
+      "New Bus Stand",
+      "Kodad Road",
+      "Suryapet Main",
+      "Collector Office",
+      "Bus Depot"
+    ]
   },
   {
     "city": "adilabad",
-    "boardingPoints": ["Adilabad Bus Station", "Nirmal Road", "Basar Gate"],
+    "boardingPoints": [
+      "Adilabad Bus Station",
+      "Nirmal Road",
+      "Basar Gate",
+      "Guda Chowrastha",
+      "Collectorate"
+    ],
     "droppingPoints": [
       "Adilabad Bus Station",
+      "Nirmal Road",
+      "Basar Gate",
       "Guda Chowrastha",
       "Collectorate"
     ]
@@ -362,24 +597,76 @@
     "boardingPoints": [
       "Kalaburagi Central Bus Stand",
       "Jewargi Cross",
-      "Gulbarga Ring Road"
+      "Gulbarga Ring Road",
+      "Super Market",
+      "Sedam Road",
+      "MSK Mill"
     ],
-    "droppingPoints": ["Super Market", "Sedam Road", "MSK Mill"]
+    "droppingPoints": [
+      "Kalaburagi Central Bus Stand",
+      "Jewargi Cross",
+      "Gulbarga Ring Road",
+      "Super Market",
+      "Sedam Road",
+      "MSK Mill"
+    ]
   },
   {
     "city": "shivamogga",
-    "boardingPoints": ["Shivamogga Bus Stand", "Sagara Road", "Kuvempu Nagar"],
-    "droppingPoints": ["Shivamogga Bus Depot", "RMC Yard", "Kote Circle"]
+    "boardingPoints": [
+      "Shivamogga Bus Stand",
+      "Sagara Road",
+      "Kuvempu Nagar",
+      "Shivamogga Bus Depot",
+      "RMC Yard",
+      "Kote Circle"
+    ],
+    "droppingPoints": [
+      "Shivamogga Bus Stand",
+      "Sagara Road",
+      "Kuvempu Nagar",
+      "Shivamogga Bus Depot",
+      "RMC Yard",
+      "Kote Circle"
+    ]
   },
   {
     "city": "tumakuru",
-    "boardingPoints": ["Tumakuru KSRTC Bus Stand", "Gubbi Gate", "Kyathsandra"],
-    "droppingPoints": ["SIT Circle", "SS Puram", "Tumakuru Bypass"]
+    "boardingPoints": [
+      "Tumakuru KSRTC Bus Stand",
+      "Gubbi Gate",
+      "Kyathsandra",
+      "SIT Circle",
+      "SS Puram",
+      "Tumakuru Bypass"
+    ],
+    "droppingPoints": [
+      "Tumakuru KSRTC Bus Stand",
+      "Gubbi Gate",
+      "Kyathsandra",
+      "SIT Circle",
+      "SS Puram",
+      "Tumakuru Bypass"
+    ]
   },
   {
     "city": "raichur",
-    "boardingPoints": ["Raichur Bus Stand", "Industrial Area", "Station Road"],
-    "droppingPoints": ["Raichur Circle", "Sindhanur Road", "Raichur Fort Area"]
+    "boardingPoints": [
+      "Raichur Bus Stand",
+      "Industrial Area",
+      "Station Road",
+      "Raichur Circle",
+      "Sindhanur Road",
+      "Raichur Fort Area"
+    ],
+    "droppingPoints": [
+      "Raichur Bus Stand",
+      "Industrial Area",
+      "Station Road",
+      "Raichur Circle",
+      "Sindhanur Road",
+      "Raichur Fort Area"
+    ]
   },
   {
     "city": "chennai",
@@ -388,9 +675,19 @@
       "Tambaram",
       "Adyar",
       "Anna Nagar",
-      "Velachery"
+      "Velachery",
+      "Parrys Corner",
+      "Egmore",
+      "Guindy",
+      "T. Nagar",
+      "Chromepet"
     ],
     "droppingPoints": [
+      "Koyambedu",
+      "Tambaram",
+      "Adyar",
+      "Anna Nagar",
+      "Velachery",
       "Parrys Corner",
       "Egmore",
       "Guindy",
@@ -405,9 +702,19 @@
       "Peelamedu",
       "RS Puram",
       "Singanallur",
-      "Ukkadam"
+      "Ukkadam",
+      "Town Hall",
+      "Podanur",
+      "Saibaba Colony",
+      "Vadavalli",
+      "Thudiyalur"
     ],
     "droppingPoints": [
+      "Gandhipuram",
+      "Peelamedu",
+      "RS Puram",
+      "Singanallur",
+      "Ukkadam",
       "Town Hall",
       "Podanur",
       "Saibaba Colony",
@@ -422,9 +729,19 @@
       "Thiruparankundram",
       "Anna Nagar",
       "Palanganatham",
-      "Simmakkal"
+      "Simmakkal",
+      "Periyar Bus Stand",
+      "Tallakulam",
+      "KK Nagar",
+      "Koodal Nagar",
+      "Goripalayam"
     ],
     "droppingPoints": [
+      "Mattuthavani",
+      "Thiruparankundram",
+      "Anna Nagar",
+      "Palanganatham",
+      "Simmakkal",
       "Periyar Bus Stand",
       "Tallakulam",
       "KK Nagar",
@@ -439,9 +756,19 @@
       "Srirangam",
       "Thillai Nagar",
       "KK Nagar",
-      "Cantonment"
+      "Cantonment",
+      "Chathiram Bus Stand",
+      "Ponmalai",
+      "BHEL",
+      "Manikandam",
+      "Woraiyur"
     ],
     "droppingPoints": [
+      "Central Bus Stand",
+      "Srirangam",
+      "Thillai Nagar",
+      "KK Nagar",
+      "Cantonment",
       "Chathiram Bus Stand",
       "Ponmalai",
       "BHEL",
@@ -456,9 +783,19 @@
       "Shevapet",
       "Hasthampatty",
       "Seelanaickenpatti",
-      "Ammapet"
+      "Ammapet",
+      "Four Roads",
+      "Gugai",
+      "Kannankurichi",
+      "Fairlands",
+      "Omalur"
     ],
     "droppingPoints": [
+      "New Bus Stand",
+      "Shevapet",
+      "Hasthampatty",
+      "Seelanaickenpatti",
+      "Ammapet",
       "Four Roads",
       "Gugai",
       "Kannankurichi",
@@ -473,9 +810,19 @@
       "Palayamkottai",
       "Vannarpettai",
       "Melapalayam",
-      "Sankarankovil Road"
+      "Sankarankovil Road",
+      "VOC Ground",
+      "High Ground",
+      "KTC Nagar",
+      "Seevalaperi Road",
+      "Perumalpuram"
     ],
     "droppingPoints": [
+      "New Bus Stand",
+      "Palayamkottai",
+      "Vannarpettai",
+      "Melapalayam",
+      "Sankarankovil Road",
       "VOC Ground",
       "High Ground",
       "KTC Nagar",
@@ -490,9 +837,19 @@
       "Kumar Nagar",
       "Kangeyam Road",
       "Mangalam",
-      "Veerapandi"
+      "Veerapandi",
+      "Anupparpalayam",
+      "PN Road",
+      "Avinashi",
+      "Nallur",
+      "Koolipalayam"
     ],
     "droppingPoints": [
+      "Old Bus Stand",
+      "Kumar Nagar",
+      "Kangeyam Road",
+      "Mangalam",
+      "Veerapandi",
       "Anupparpalayam",
       "PN Road",
       "Avinashi",
@@ -507,9 +864,19 @@
       "Perundurai",
       "Solar",
       "Gobichettipalayam Road",
-      "Chithode"
+      "Chithode",
+      "Brough Road",
+      "Texvalley",
+      "Modakurichi",
+      "Sampath Nagar",
+      "Veerappanchatram"
     ],
     "droppingPoints": [
+      "Central Bus Stand",
+      "Perundurai",
+      "Solar",
+      "Gobichettipalayam Road",
+      "Chithode",
       "Brough Road",
       "Texvalley",
       "Modakurichi",
@@ -524,9 +891,19 @@
       "Katpadi",
       "Gandhinagar",
       "Bagayam",
-      "Sathuvachari"
+      "Sathuvachari",
+      "VIT University",
+      "CMC Hospital",
+      "Green Circle",
+      "Thorapadi",
+      "Arcot Road"
     ],
     "droppingPoints": [
+      "New Bus Stand",
+      "Katpadi",
+      "Gandhinagar",
+      "Bagayam",
+      "Sathuvachari",
       "VIT University",
       "CMC Hospital",
       "Green Circle",
@@ -541,9 +918,19 @@
       "Muthiahpuram",
       "Millerpuram",
       "V.O.C. College",
-      "SIPCOT"
+      "SIPCOT",
+      "Harbour",
+      "Therespuram",
+      "P&T Colony",
+      "Korampallam",
+      "Bryant Nagar"
     ],
     "droppingPoints": [
+      "Old Bus Stand",
+      "Muthiahpuram",
+      "Millerpuram",
+      "V.O.C. College",
+      "SIPCOT",
       "Harbour",
       "Therespuram",
       "P&T Colony",
@@ -558,9 +945,19 @@
       "Thadikombu Road",
       "Palani Road",
       "Begambur",
-      "Soundararaja Mills"
+      "Soundararaja Mills",
+      "Old Bus Stand",
+      "Nagari",
+      "AMC Road",
+      "RM Colony",
+      "Vedasandur"
     ],
     "droppingPoints": [
+      "New Bus Stand",
+      "Thadikombu Road",
+      "Palani Road",
+      "Begambur",
+      "Soundararaja Mills",
       "Old Bus Stand",
       "Nagari",
       "AMC Road",
@@ -575,9 +972,19 @@
       "Asaripallam",
       "Suchindram",
       "Monday Market",
-      "Vetturnimadam"
+      "Vetturnimadam",
+      "Parvathipuram",
+      "Meenakshipuram",
+      "Kottar",
+      "Aralvaimozhi",
+      "Kanyakumari Road"
     ],
     "droppingPoints": [
+      "Vadasery",
+      "Asaripallam",
+      "Suchindram",
+      "Monday Market",
+      "Vetturnimadam",
       "Parvathipuram",
       "Meenakshipuram",
       "Kottar",
@@ -592,13 +999,21 @@
       "Pillaiyarpalayam",
       "Ennaikaran",
       "Orikkai",
-      "Nathapettai"
-    ],
-    "droppingPoints": [
+      "Nathapettai",
       "Kailasanathar Temple",
       "Ekambareswarar Temple",
       "Sevilimedu",
+      "Mangadu Road"
+    ],
+    "droppingPoints": [
+      "New Bus Stand",
       "Pillaiyarpalayam",
+      "Ennaikaran",
+      "Orikkai",
+      "Nathapettai",
+      "Kailasanathar Temple",
+      "Ekambareswarar Temple",
+      "Sevilimedu",
       "Mangadu Road"
     ]
   },
@@ -609,9 +1024,19 @@
       "Thirupapuliyur",
       "Vannarapalayam",
       "Semmandalam",
-      "Periyakattupalayam"
+      "Periyakattupalayam",
+      "Silver Beach",
+      "Chidambaram Road",
+      "Manjakuppam",
+      "Thiruvahindrapuram",
+      "SIPCOT"
     ],
     "droppingPoints": [
+      "Central Bus Stand",
+      "Thirupapuliyur",
+      "Vannarapalayam",
+      "Semmandalam",
+      "Periyakattupalayam",
       "Silver Beach",
       "Chidambaram Road",
       "Manjakuppam",
@@ -626,9 +1051,19 @@
       "Thanjavur Road",
       "Valayapettai",
       "Darasuram",
-      "Nageswaran North Street"
+      "Nageswaran North Street",
+      "Town Bus Stand",
+      "Kaveri Bridge",
+      "Swamimalai",
+      "Nachiyar Koil",
+      "Govindapuram"
     ],
     "droppingPoints": [
+      "New Bus Stand",
+      "Thanjavur Road",
+      "Valayapettai",
+      "Darasuram",
+      "Nageswaran North Street",
       "Town Bus Stand",
       "Kaveri Bridge",
       "Swamimalai",
@@ -638,8 +1073,30 @@
   },
   {
     "city": "mumbai",
-    "boardingPoints": ["Andheri", "Borivali", "Dadar", "Vashi", "Thane"],
-    "droppingPoints": ["Panvel", "Chembur", "Bandra", "Kalyan", "Malad"]
+    "boardingPoints": [
+      "Andheri",
+      "Borivali",
+      "Dadar",
+      "Vashi",
+      "Thane",
+      "Panvel",
+      "Chembur",
+      "Bandra",
+      "Kalyan",
+      "Malad"
+    ],
+    "droppingPoints": [
+      "Andheri",
+      "Borivali",
+      "Dadar",
+      "Vashi",
+      "Thane",
+      "Panvel",
+      "Chembur",
+      "Bandra",
+      "Kalyan",
+      "Malad"
+    ]
   },
   {
     "city": "pune",
@@ -648,9 +1105,25 @@
       "Shivajinagar",
       "Katraj",
       "Aundh",
-      "Hinjewadi"
+      "Hinjewadi",
+      "Wakad",
+      "Baner",
+      "Magarpatta",
+      "Khadki",
+      "Hadapsar"
     ],
-    "droppingPoints": ["Wakad", "Baner", "Magarpatta", "Khadki", "Hadapsar"]
+    "droppingPoints": [
+      "Swargate",
+      "Shivajinagar",
+      "Katraj",
+      "Aundh",
+      "Hinjewadi",
+      "Wakad",
+      "Baner",
+      "Magarpatta",
+      "Khadki",
+      "Hadapsar"
+    ]
   },
   {
     "city": "nagpur",
@@ -659,9 +1132,19 @@
       "Mahal",
       "Dharampeth",
       "Sadar",
-      "Wardhaman Nagar"
+      "Wardhaman Nagar",
+      "Civil Lines",
+      "Ajni",
+      "Manish Nagar",
+      "Koradi",
+      "Hudkeshwar"
     ],
     "droppingPoints": [
+      "Sitabuldi",
+      "Mahal",
+      "Dharampeth",
+      "Sadar",
+      "Wardhaman Nagar",
       "Civil Lines",
       "Ajni",
       "Manish Nagar",
@@ -676,9 +1159,19 @@
       "Panchavati",
       "Gangapur Road",
       "Dwarka",
-      "Indira Nagar"
+      "Indira Nagar",
+      "Ambad",
+      "Nashik Road",
+      "Satpur",
+      "Deolali",
+      "Trimurti Chowk"
     ],
     "droppingPoints": [
+      "CBS",
+      "Panchavati",
+      "Gangapur Road",
+      "Dwarka",
+      "Indira Nagar",
       "Ambad",
       "Nashik Road",
       "Satpur",
@@ -693,9 +1186,19 @@
       "Gadia Vihar",
       "Waluj",
       "Railway Station",
-      "Cannaught"
+      "Cannaught",
+      "Kranti Chowk",
+      "Shahganj",
+      "Osmanpura",
+      "Jalna Road",
+      "Pundlik Nagar"
     ],
     "droppingPoints": [
+      "CIDCO",
+      "Gadia Vihar",
+      "Waluj",
+      "Railway Station",
+      "Cannaught",
       "Kranti Chowk",
       "Shahganj",
       "Osmanpura",
@@ -710,9 +1213,19 @@
       "Akkalkot Road",
       "Hotgi",
       "MIDC",
-      "Murarpally"
+      "Murarpally",
+      "Pandharpur Road",
+      "Sambhaji Chowk",
+      "Jule Solapur",
+      "Fatteh Chowk",
+      "Kumathe"
     ],
     "droppingPoints": [
+      "Siddheshwar",
+      "Akkalkot Road",
+      "Hotgi",
+      "MIDC",
+      "Murarpally",
       "Pandharpur Road",
       "Sambhaji Chowk",
       "Jule Solapur",
@@ -727,9 +1240,19 @@
       "Rankala",
       "Udyamnagar",
       "Gandhinagar",
-      "Laxmipuri"
+      "Laxmipuri",
+      "Karveer",
+      "Kasaba Bawada",
+      "Ichalkaranji Road",
+      "Gokul Shirgaon",
+      "Shiroli"
     ],
     "droppingPoints": [
+      "Shahu Market",
+      "Rankala",
+      "Udyamnagar",
+      "Gandhinagar",
+      "Laxmipuri",
       "Karveer",
       "Kasaba Bawada",
       "Ichalkaranji Road",
@@ -744,9 +1267,19 @@
       "Badnera",
       "Gopal Nagar",
       "Rathi Nagar",
-      "Dastur Nagar"
+      "Dastur Nagar",
+      "Maltekdi",
+      "Akoli Road",
+      "Paratwada Road",
+      "Wadali",
+      "Camp Area"
     ],
     "droppingPoints": [
+      "Rajapeth",
+      "Badnera",
+      "Gopal Nagar",
+      "Rathi Nagar",
+      "Dastur Nagar",
       "Maltekdi",
       "Akoli Road",
       "Paratwada Road",
@@ -761,9 +1294,19 @@
       "Ring Road",
       "Bhusawal Road",
       "Rokadia Hanuman",
-      "Mehrun"
+      "Mehrun",
+      "Ajanta Road",
+      "Pimprala",
+      "MIDC",
+      "Kadgaon",
+      "Muktainagar Road"
     ],
     "droppingPoints": [
+      "Raver Road",
+      "Ring Road",
+      "Bhusawal Road",
+      "Rokadia Hanuman",
+      "Mehrun",
       "Ajanta Road",
       "Pimprala",
       "MIDC",
@@ -773,8 +1316,24 @@
   },
   {
     "city": "ahmednagar",
-    "boardingPoints": ["Savedi", "MIDC", "Tarwadi", "Nalegaon", "Pune Road"],
+    "boardingPoints": [
+      "Savedi",
+      "MIDC",
+      "Tarwadi",
+      "Nalegaon",
+      "Pune Road",
+      "Kedgaon",
+      "Bolhegaon",
+      "Nagar Bus Stand",
+      "Pipeline Road",
+      "Market Yard"
+    ],
     "droppingPoints": [
+      "Savedi",
+      "MIDC",
+      "Tarwadi",
+      "Nalegaon",
+      "Pune Road",
       "Kedgaon",
       "Bolhegaon",
       "Nagar Bus Stand",
@@ -789,9 +1348,19 @@
       "Kupwad",
       "Vishrambag",
       "Miraj Road",
-      "Shivaji Nagar"
+      "Shivaji Nagar",
+      "Gaonbhag",
+      "Datta Nagar",
+      "Shivaji Chowk",
+      "Warnali",
+      "Gokulwadi"
     ],
     "droppingPoints": [
+      "Madhavnagar",
+      "Kupwad",
+      "Vishrambag",
+      "Miraj Road",
+      "Shivaji Nagar",
       "Gaonbhag",
       "Datta Nagar",
       "Shivaji Chowk",
@@ -806,9 +1375,19 @@
       "Barshi Road",
       "Renapur Road",
       "Old Latur",
-      "Shivaji Chowk"
+      "Shivaji Chowk",
+      "Udgir Road",
+      "Ganj Golai",
+      "Ambajogai Road",
+      "Nanded Road",
+      "Vishal Nagar"
     ],
     "droppingPoints": [
+      "MIDC",
+      "Barshi Road",
+      "Renapur Road",
+      "Old Latur",
+      "Shivaji Chowk",
       "Udgir Road",
       "Ganj Golai",
       "Ambajogai Road",
@@ -823,9 +1402,19 @@
       "Saykheda Road",
       "Satana Naka",
       "Powerloom Area",
-      "Shivaji Nagar"
+      "Shivaji Nagar",
+      "Hivargaon",
+      "Ambad Road",
+      "Old Malegaon",
+      "Nampur Road",
+      "Mosque Road"
     ],
     "droppingPoints": [
+      "Camp",
+      "Saykheda Road",
+      "Satana Naka",
+      "Powerloom Area",
+      "Shivaji Nagar",
       "Hivargaon",
       "Ambad Road",
       "Old Malegaon",
@@ -840,9 +1429,19 @@
       "Shahupuri",
       "MIDC Road",
       "Karanje",
-      "Shendre"
+      "Shendre",
+      "Kodoli",
+      "Vaduj Road",
+      "Pusesavali",
+      "Yadogopal Peth",
+      "Venna River Bridge"
     ],
     "droppingPoints": [
+      "Powai Naka",
+      "Shahupuri",
+      "MIDC Road",
+      "Karanje",
+      "Shendre",
       "Kodoli",
       "Vaduj Road",
       "Pusesavali",
@@ -857,9 +1456,19 @@
       "Mirya",
       "Rajiwada",
       "Nachane",
-      "Patit Pawan Nagar"
+      "Patit Pawan Nagar",
+      "Mandvi",
+      "Karle",
+      "Purnagad",
+      "Bhatye",
+      "Ganpatipule Road"
     ],
     "droppingPoints": [
+      "Bus Stand",
+      "Mirya",
+      "Rajiwada",
+      "Nachane",
+      "Patit Pawan Nagar",
       "Mandvi",
       "Karle",
       "Purnagad",
@@ -874,9 +1483,19 @@
       "Sarojini Nagar",
       "RK Puram",
       "AIIMS",
-      "Chanakyapuri"
+      "Chanakyapuri",
+      "Connaught Place",
+      "Janpath",
+      "Indira Gandhi Airport",
+      "New Delhi Railway Station",
+      "India Gate"
     ],
     "droppingPoints": [
+      "ISBT Kashmiri Gate",
+      "Sarojini Nagar",
+      "RK Puram",
+      "AIIMS",
+      "Chanakyapuri",
       "Connaught Place",
       "Janpath",
       "Indira Gandhi Airport",
@@ -891,9 +1510,19 @@
       "GTB Nagar",
       "Civil Lines",
       "Azadpur",
-      "Mukherjee Nagar"
+      "Mukherjee Nagar",
+      "Kingsway Camp",
+      "Burari",
+      "Shalimar Bagh",
+      "Rohini Sector 7",
+      "Pitampura"
     ],
     "droppingPoints": [
+      "Model Town",
+      "GTB Nagar",
+      "Civil Lines",
+      "Azadpur",
+      "Mukherjee Nagar",
       "Kingsway Camp",
       "Burari",
       "Shalimar Bagh",
@@ -908,9 +1537,19 @@
       "Malviya Nagar",
       "Green Park",
       "Saket",
-      "Nehru Place"
+      "Nehru Place",
+      "Greater Kailash",
+      "Kalkaji",
+      "Lajpat Nagar",
+      "Vasant Vihar",
+      "Mehrauli"
     ],
     "droppingPoints": [
+      "Hauz Khas",
+      "Malviya Nagar",
+      "Green Park",
+      "Saket",
+      "Nehru Place",
       "Greater Kailash",
       "Kalkaji",
       "Lajpat Nagar",
@@ -925,9 +1564,19 @@
       "Laxmi Nagar",
       "Anand Vihar",
       "Karkardooma",
-      "Patparganj"
+      "Patparganj",
+      "Mayur Vihar",
+      "Vivek Vihar",
+      "Shahdara",
+      "Geeta Colony",
+      "Pandav Nagar"
     ],
     "droppingPoints": [
+      "Preet Vihar",
+      "Laxmi Nagar",
+      "Anand Vihar",
+      "Karkardooma",
+      "Patparganj",
       "Mayur Vihar",
       "Vivek Vihar",
       "Shahdara",
@@ -942,9 +1591,19 @@
       "Vikaspuri",
       "Rajouri Garden",
       "Janakpuri",
-      "Paschim Vihar"
+      "Paschim Vihar",
+      "Hari Nagar",
+      "Dwarka Mor",
+      "Uttam Nagar",
+      "Subhash Nagar",
+      "Tagore Garden"
     ],
     "droppingPoints": [
+      "Tilak Nagar",
+      "Vikaspuri",
+      "Rajouri Garden",
+      "Janakpuri",
+      "Paschim Vihar",
       "Hari Nagar",
       "Dwarka Mor",
       "Uttam Nagar",
@@ -959,9 +1618,19 @@
       "Karol Bagh",
       "Paharganj",
       "Rajendra Place",
-      "Daryaganj"
+      "Daryaganj",
+      "I P Estate",
+      "Ajmeri Gate",
+      "Chandni Chowk",
+      "Barakhamba",
+      "Ramlila Maidan"
     ],
     "droppingPoints": [
+      "Connaught Place",
+      "Karol Bagh",
+      "Paharganj",
+      "Rajendra Place",
+      "Daryaganj",
       "I P Estate",
       "Ajmeri Gate",
       "Chandni Chowk",
@@ -976,9 +1645,19 @@
       "Dwarka Sector 12",
       "Dwarka Sector 6",
       "Dwarka Mor",
-      "Dwarka Sector 10"
+      "Dwarka Sector 10",
+      "Dwarka Sector 9",
+      "Dwarka Sector 19",
+      "Dwarka Sector 23",
+      "Najafgarh",
+      "Uttam Nagar"
     ],
     "droppingPoints": [
+      "Dwarka Sector 21",
+      "Dwarka Sector 12",
+      "Dwarka Sector 6",
+      "Dwarka Mor",
+      "Dwarka Sector 10",
       "Dwarka Sector 9",
       "Dwarka Sector 19",
       "Dwarka Sector 23",
@@ -993,9 +1672,19 @@
       "Rohini Sector 7",
       "Rohini West Metro",
       "Rohini East Metro",
-      "Pitampura"
+      "Pitampura",
+      "Rithala",
+      "Prashant Vihar",
+      "Mangolpuri",
+      "Saraswati Vihar",
+      "Netaji Subhash Place"
     ],
     "droppingPoints": [
+      "Rohini Sector 3",
+      "Rohini Sector 7",
+      "Rohini West Metro",
+      "Rohini East Metro",
+      "Pitampura",
       "Rithala",
       "Prashant Vihar",
       "Mangolpuri",
@@ -1010,9 +1699,19 @@
       "Ajmal Khan Road",
       "Dev Nagar",
       "Pusa Road",
-      "Rajendra Nagar"
+      "Rajendra Nagar",
+      "Ghaffar Market",
+      "Patel Nagar",
+      "Connaught Place",
+      "Ramesh Nagar",
+      "Shadipur"
     ],
     "droppingPoints": [
+      "Karol Bagh Metro",
+      "Ajmal Khan Road",
+      "Dev Nagar",
+      "Pusa Road",
+      "Rajendra Nagar",
       "Ghaffar Market",
       "Patel Nagar",
       "Connaught Place",
@@ -1027,9 +1726,19 @@
       "Amar Colony",
       "Vinoba Puri",
       "Defence Colony",
-      "Ashram"
+      "Ashram",
+      "Moolchand",
+      "Kailash Colony",
+      "Kalka Ji",
+      "Nehru Place",
+      "Greater Kailash"
     ],
     "droppingPoints": [
+      "Lajpat Nagar Metro",
+      "Amar Colony",
+      "Vinoba Puri",
+      "Defence Colony",
+      "Ashram",
       "Moolchand",
       "Kailash Colony",
       "Kalka Ji",
@@ -1044,9 +1753,19 @@
       "Select City Walk",
       "Saidulajab",
       "Malviya Nagar",
-      "PVR Saket"
+      "PVR Saket",
+      "Qutub Minar",
+      "Mehrauli",
+      "Vasant Kunj",
+      "Pushp Vihar",
+      "Chhattarpur"
     ],
     "droppingPoints": [
+      "Saket Metro",
+      "Select City Walk",
+      "Saidulajab",
+      "Malviya Nagar",
+      "PVR Saket",
       "Qutub Minar",
       "Mehrauli",
       "Vasant Kunj",
@@ -1061,9 +1780,19 @@
       "Masoodpur",
       "Fortis Hospital",
       "DLF Promenade",
-      "Mahipalpur"
+      "Mahipalpur",
+      "Aruna Asaf Ali Road",
+      "Vasant Vihar",
+      "Chhattarpur",
+      "Qutub Minar",
+      "Rangpuri"
     ],
     "droppingPoints": [
+      "Nelson Mandela Road",
+      "Masoodpur",
+      "Fortis Hospital",
+      "DLF Promenade",
+      "Mahipalpur",
       "Aruna Asaf Ali Road",
       "Vasant Vihar",
       "Chhattarpur",
@@ -1078,9 +1807,19 @@
       "PVR Plaza",
       "Janpath",
       "Hanuman Road",
-      "Barakhamba Road"
+      "Barakhamba Road",
+      "India Gate",
+      "Mandi House",
+      "Patel Chowk",
+      "Shivaji Stadium",
+      "Ramakrishna Ashram"
     ],
     "droppingPoints": [
+      "Rajiv Chowk Metro",
+      "PVR Plaza",
+      "Janpath",
+      "Hanuman Road",
+      "Barakhamba Road",
       "India Gate",
       "Mandi House",
       "Patel Chowk",
@@ -1095,9 +1834,19 @@
       "C4E Market",
       "Janakpuri District Centre",
       "Tilak Nagar",
-      "Uttam Nagar"
+      "Uttam Nagar",
+      "Vikas Puri",
+      "Hari Nagar",
+      "Subhash Nagar",
+      "Tagore Garden",
+      "Dwarka Mor"
     ],
     "droppingPoints": [
+      "Janakpuri West Metro",
+      "C4E Market",
+      "Janakpuri District Centre",
+      "Tilak Nagar",
+      "Uttam Nagar",
       "Vikas Puri",
       "Hari Nagar",
       "Subhash Nagar",
@@ -1112,9 +1861,19 @@
       "Seemapuri",
       "Dilshad Garden",
       "Vivek Vihar",
-      "Yamuna Vihar"
+      "Yamuna Vihar",
+      "Loni Road",
+      "Maujpur",
+      "Welcome",
+      "Geeta Colony",
+      "Anand Vihar"
     ],
     "droppingPoints": [
+      "Shahdara Metro",
+      "Seemapuri",
+      "Dilshad Garden",
+      "Vivek Vihar",
+      "Yamuna Vihar",
       "Loni Road",
       "Maujpur",
       "Welcome",
@@ -1129,9 +1888,19 @@
       "Charbagh",
       "Aminabad",
       "Indira Nagar",
-      "Hazratganj"
+      "Hazratganj",
+      "Gomti Nagar",
+      "Transport Nagar",
+      "Rajajipuram",
+      "Sitapur Road",
+      "Chinhat"
     ],
     "droppingPoints": [
+      "Alambagh",
+      "Charbagh",
+      "Aminabad",
+      "Indira Nagar",
+      "Hazratganj",
       "Gomti Nagar",
       "Transport Nagar",
       "Rajajipuram",
@@ -1146,9 +1915,19 @@
       "Govind Nagar",
       "Swaroop Nagar",
       "Ratanlal Nagar",
-      "Kalyanpur"
+      "Kalyanpur",
+      "Barra",
+      "Shastri Nagar",
+      "Lajpat Nagar",
+      "Kidwai Nagar",
+      "Panki"
     ],
     "droppingPoints": [
+      "Rawatpur",
+      "Govind Nagar",
+      "Swaroop Nagar",
+      "Ratanlal Nagar",
+      "Kalyanpur",
       "Barra",
       "Shastri Nagar",
       "Lajpat Nagar",
@@ -1158,8 +1937,24 @@
   },
   {
     "city": "varanasi",
-    "boardingPoints": ["Cantt", "Sigra", "Bhelupur", "Lanka", "Maldahiya"],
+    "boardingPoints": [
+      "Cantt",
+      "Sigra",
+      "Bhelupur",
+      "Lanka",
+      "Maldahiya",
+      "Assi Ghat",
+      "Dasaswamedh Ghat",
+      "Godowlia",
+      "Sarnath",
+      "Pandeypur"
+    ],
     "droppingPoints": [
+      "Cantt",
+      "Sigra",
+      "Bhelupur",
+      "Lanka",
+      "Maldahiya",
       "Assi Ghat",
       "Dasaswamedh Ghat",
       "Godowlia",
@@ -1174,9 +1969,19 @@
       "Kamla Nagar",
       "Taj Ganj",
       "Civil Lines",
-      "Dayal Bagh"
+      "Dayal Bagh",
+      "Fatehabad Road",
+      "MG Road",
+      "Khandari",
+      "Trans Yamuna",
+      "Rakabganj"
     ],
     "droppingPoints": [
+      "Sadar Bazaar",
+      "Kamla Nagar",
+      "Taj Ganj",
+      "Civil Lines",
+      "Dayal Bagh",
       "Fatehabad Road",
       "MG Road",
       "Khandari",
@@ -1191,9 +1996,19 @@
       "Naini",
       "Lukerganj",
       "Kareli",
-      "George Town"
+      "George Town",
+      "Daraganj",
+      "Jhunsi",
+      "Mumtaz Nagar",
+      "Allahpur",
+      "Bairhana"
     ],
     "droppingPoints": [
+      "Civil Lines",
+      "Naini",
+      "Lukerganj",
+      "Kareli",
+      "George Town",
       "Daraganj",
       "Jhunsi",
       "Mumtaz Nagar",
@@ -1208,9 +2023,19 @@
       "Modipuram",
       "Abu Lane",
       "Begum Bridge",
-      "Ganga Nagar"
+      "Ganga Nagar",
+      "Pallavpuram",
+      "Lisari Gate",
+      "Surajkund",
+      "Hapur Road",
+      "Jagrati Vihar"
     ],
     "droppingPoints": [
+      "Shastri Nagar",
+      "Modipuram",
+      "Abu Lane",
+      "Begum Bridge",
+      "Ganga Nagar",
       "Pallavpuram",
       "Lisari Gate",
       "Surajkund",
@@ -1225,9 +2050,19 @@
       "Indirapuram",
       "Raj Nagar",
       "Vasundhara",
-      "Lohia Nagar"
+      "Lohia Nagar",
+      "Mohan Nagar",
+      "Sahibabad",
+      "Vaishali",
+      "Govindpuram",
+      "Crossings Republik"
     ],
     "droppingPoints": [
+      "Kaushambi",
+      "Indirapuram",
+      "Raj Nagar",
+      "Vasundhara",
+      "Lohia Nagar",
       "Mohan Nagar",
       "Sahibabad",
       "Vaishali",
@@ -1242,9 +2077,19 @@
       "Sector 62",
       "Sector 15",
       "Sector 137",
-      "Sector 50"
+      "Sector 50",
+      "Sector 16",
+      "Sector 34",
+      "Sector 76",
+      "Sector 128",
+      "Sector 101"
     ],
     "droppingPoints": [
+      "Sector 18",
+      "Sector 62",
+      "Sector 15",
+      "Sector 137",
+      "Sector 50",
       "Sector 16",
       "Sector 34",
       "Sector 76",
@@ -1259,9 +2104,19 @@
       "Dodpur",
       "Rasalganj",
       "Aligarh Muslim University",
-      "Jamia Urdu"
+      "Jamia Urdu",
+      "Quarsi",
+      "Surajpur",
+      "Mahfooz Nagar",
+      "Sasni Gate",
+      "Dhorra Mafi"
     ],
     "droppingPoints": [
+      "Center Point",
+      "Dodpur",
+      "Rasalganj",
+      "Aligarh Muslim University",
+      "Jamia Urdu",
       "Quarsi",
       "Surajpur",
       "Mahfooz Nagar",
@@ -1276,9 +2131,19 @@
       "Rajendra Nagar",
       "Pilibhit Road",
       "Subhash Nagar",
-      "Sanjay Nagar"
+      "Sanjay Nagar",
+      "Izzatnagar",
+      "Clutterbuckganj",
+      "CB Ganj",
+      "Karamchari Colony",
+      "Satyendra Nagar"
     ],
     "droppingPoints": [
+      "Civil Lines",
+      "Rajendra Nagar",
+      "Pilibhit Road",
+      "Subhash Nagar",
+      "Sanjay Nagar",
       "Izzatnagar",
       "Clutterbuckganj",
       "CB Ganj",
@@ -1293,9 +2158,19 @@
       "Kanth Road",
       "Civil Lines",
       "Mandi Chowk",
-      "Line Par"
+      "Line Par",
+      "Transport Nagar",
+      "Ashiyana Colony",
+      "Kathghar",
+      "Barwali",
+      "Kundanpur"
     ],
     "droppingPoints": [
+      "Budh Bazaar",
+      "Kanth Road",
+      "Civil Lines",
+      "Mandi Chowk",
+      "Line Par",
       "Transport Nagar",
       "Ashiyana Colony",
       "Kathghar",
@@ -1310,9 +2185,19 @@
       "Golghar",
       "Basharatpur",
       "Asuran",
-      "Rustampur"
+      "Rustampur",
+      "Chiluatal",
+      "Miyan Baza",
+      "Medical College",
+      "Kunraghat",
+      "Chargawan"
     ],
     "droppingPoints": [
+      "Railway Station",
+      "Golghar",
+      "Basharatpur",
+      "Asuran",
+      "Rustampur",
       "Chiluatal",
       "Miyan Baza",
       "Medical College",
@@ -1327,9 +2212,19 @@
       "Elite Chowk",
       "Civil Lines",
       "Gwalior Road",
-      "Manik Chowk"
+      "Manik Chowk",
+      "Baragaon",
+      "Hansari",
+      "Laxmi Garden",
+      "Moth",
+      "Nandanpura"
     ],
     "droppingPoints": [
+      "Sipri Bazar",
+      "Elite Chowk",
+      "Civil Lines",
+      "Gwalior Road",
+      "Manik Chowk",
       "Baragaon",
       "Hansari",
       "Laxmi Garden",
@@ -1344,9 +2239,19 @@
       "Ramnagar",
       "Tundla",
       "Kailash Nagar",
-      "Shikohabad Road"
+      "Shikohabad Road",
+      "Nai Mandi",
+      "Raja Ka Tal",
+      "Ekdil",
+      "Rahi Nagar",
+      "Hathras Road"
     ],
     "droppingPoints": [
+      "Sadar Bazar",
+      "Ramnagar",
+      "Tundla",
+      "Kailash Nagar",
+      "Shikohabad Road",
       "Nai Mandi",
       "Raja Ka Tal",
       "Ekdil",
@@ -1361,9 +2266,19 @@
       "Mission Compound",
       "Dehradun Road",
       "Gill Colony",
-      "Subhash Nagar"
+      "Subhash Nagar",
+      "Jwala Nagar",
+      "Ambala Road",
+      "Kashmiriganj",
+      "Sharda Nagar",
+      "Court Road"
     ],
     "droppingPoints": [
+      "Chilkana Road",
+      "Mission Compound",
+      "Dehradun Road",
+      "Gill Colony",
+      "Subhash Nagar",
       "Jwala Nagar",
       "Ambala Road",
       "Kashmiriganj",
@@ -1378,9 +2293,19 @@
       "Vaishali Nagar",
       "Mansarovar",
       "Malviya Nagar",
-      "C-Scheme"
+      "C-Scheme",
+      "Amer Road",
+      "Bani Park",
+      "Jagatpura",
+      "Sodala",
+      "Tonk Road"
     ],
     "droppingPoints": [
+      "Sindhi Camp",
+      "Vaishali Nagar",
+      "Mansarovar",
+      "Malviya Nagar",
+      "C-Scheme",
       "Amer Road",
       "Bani Park",
       "Jagatpura",
@@ -1395,9 +2320,19 @@
       "Ratanada",
       "Chopasni Housing Board",
       "Sardarpura",
-      "Mandore"
+      "Mandore",
+      "Shastri Nagar",
+      "Basu Bas",
+      "Residency Road",
+      "Sojati Gate",
+      "Banar"
     ],
     "droppingPoints": [
+      "Paota",
+      "Ratanada",
+      "Chopasni Housing Board",
+      "Sardarpura",
+      "Mandore",
       "Shastri Nagar",
       "Basu Bas",
       "Residency Road",
@@ -1412,9 +2347,19 @@
       "Gumanpura",
       "Vigyan Nagar",
       "Chawani",
-      "Kunhadi"
+      "Kunhadi",
+      "Dadabari",
+      "Indraprastha Industrial Area",
+      "Mahaveer Nagar",
+      "Keshavpura",
+      "Railway Colony"
     ],
     "droppingPoints": [
+      "Talwandi",
+      "Gumanpura",
+      "Vigyan Nagar",
+      "Chawani",
+      "Kunhadi",
       "Dadabari",
       "Indraprastha Industrial Area",
       "Mahaveer Nagar",
@@ -1429,9 +2374,19 @@
       "Surajpole",
       "Fatehpura",
       "Bapu Bazaar",
-      "Pratap Nagar"
+      "Pratap Nagar",
+      "Goverdhan Vilas",
+      "Ambamata",
+      "Shobhagpura",
+      "Kumbhalgarh Road",
+      "Rani Road"
     ],
     "droppingPoints": [
+      "Hiran Magri",
+      "Surajpole",
+      "Fatehpura",
+      "Bapu Bazaar",
+      "Pratap Nagar",
       "Goverdhan Vilas",
       "Ambamata",
       "Shobhagpura",
@@ -1446,9 +2401,19 @@
       "Dargah Bazaar",
       "Vaishali Nagar",
       "Naka Madar",
-      "Civil Lines"
+      "Civil Lines",
+      "Anasagar Lake",
+      "Adarsh Nagar",
+      "Kutchery Road",
+      "Topdara",
+      "Makhupura"
     ],
     "droppingPoints": [
+      "Kesar Ganj",
+      "Dargah Bazaar",
+      "Vaishali Nagar",
+      "Naka Madar",
+      "Civil Lines",
       "Anasagar Lake",
       "Adarsh Nagar",
       "Kutchery Road",
@@ -1463,9 +2428,19 @@
       "Lalgarh",
       "Ganga Nagar Road",
       "Pawanpuri",
-      "Shivbari"
+      "Shivbari",
+      "Junagarh Fort",
+      "Murlidhar Vyas Colony",
+      "Jassusar Gate",
+      "Gangashahar",
+      "Karni Colony"
     ],
     "droppingPoints": [
+      "Rani Bazar",
+      "Lalgarh",
+      "Ganga Nagar Road",
+      "Pawanpuri",
+      "Shivbari",
       "Junagarh Fort",
       "Murlidhar Vyas Colony",
       "Jassusar Gate",
@@ -1480,9 +2455,19 @@
       "Lajpat Nagar",
       "Kalakand Market",
       "Budh Vihar",
-      "Hasan Khan Mewati Nagar"
+      "Hasan Khan Mewati Nagar",
+      "Aravali Vihar",
+      "Surya Nagar",
+      "Gopalgarh",
+      "Ambedkar Circle",
+      "MIA"
     ],
     "droppingPoints": [
+      "Moti Doongri",
+      "Lajpat Nagar",
+      "Kalakand Market",
+      "Budh Vihar",
+      "Hasan Khan Mewati Nagar",
       "Aravali Vihar",
       "Surya Nagar",
       "Gopalgarh",
@@ -1497,9 +2482,19 @@
       "Azad Nagar",
       "Pur Road",
       "Subhash Nagar",
-      "Gulmohar Colony"
+      "Gulmohar Colony",
+      "Bhopal Ganj",
+      "Harni Mahadev",
+      "Sangam Nagar",
+      "Chittor Road",
+      "Sector 3"
     ],
     "droppingPoints": [
+      "Shastri Nagar",
+      "Azad Nagar",
+      "Pur Road",
+      "Subhash Nagar",
+      "Gulmohar Colony",
       "Bhopal Ganj",
       "Harni Mahadev",
       "Sangam Nagar",
@@ -1514,9 +2509,19 @@
       "Neem Ka Thana Road",
       "Palsana",
       "Bajaj Road",
-      "Shivsinghpura"
+      "Shivsinghpura",
+      "Industrial Area",
+      "Ramgarh Road",
+      "Salasar",
+      "Fatehpur Road",
+      "Gokulpura"
     ],
     "droppingPoints": [
+      "Station Road",
+      "Neem Ka Thana Road",
+      "Palsana",
+      "Bajaj Road",
+      "Shivsinghpura",
       "Industrial Area",
       "Ramgarh Road",
       "Salasar",
@@ -1531,9 +2536,19 @@
       "Bangur Nagar",
       "Mandia Road",
       "Lakhotia",
-      "Surajpole"
+      "Surajpole",
+      "Sumerpur",
+      "Rani Station Road",
+      "Falna Road",
+      "Hanwant Nagar",
+      "Purwa"
     ],
     "droppingPoints": [
+      "Jawai Bandh Road",
+      "Bangur Nagar",
+      "Mandia Road",
+      "Lakhotia",
+      "Surajpole",
       "Sumerpur",
       "Rani Station Road",
       "Falna Road",
@@ -1548,9 +2563,19 @@
       "Civil Lines",
       "Raj Talkies Road",
       "Malpura Road",
-      "Kha Tiraha"
+      "Kha Tiraha",
+      "Subhash Bazar",
+      "Khandi Road",
+      "Janta Colony",
+      "Gandhi Nagar",
+      "Indira Colony"
     ],
     "droppingPoints": [
+      "Chandlai",
+      "Civil Lines",
+      "Raj Talkies Road",
+      "Malpura Road",
+      "Kha Tiraha",
       "Subhash Bazar",
       "Khandi Road",
       "Janta Colony",
@@ -1565,9 +2590,19 @@
       "Gandhi Nagar",
       "Kumbha Nagar",
       "Padmini Chowk",
-      "Pratap Nagar"
+      "Pratap Nagar",
+      "Rana Sanga Market",
+      "Meera Nagar",
+      "Bassi Road",
+      "Sainik Colony",
+      "Fort Road"
     ],
     "droppingPoints": [
+      "Collectorate Circle",
+      "Gandhi Nagar",
+      "Kumbha Nagar",
+      "Padmini Chowk",
+      "Pratap Nagar",
       "Rana Sanga Market",
       "Meera Nagar",
       "Bassi Road",
@@ -1582,9 +2617,19 @@
       "Gandhi Chowk",
       "Shivaji Colony",
       "Indira Colony",
-      "Old City"
+      "Old City",
+      "Sadar Bazar",
+      "Kuchaman Road",
+      "Didwana Road",
+      "Kharia",
+      "Merta Road"
     ],
     "droppingPoints": [
+      "Basant Vihar",
+      "Gandhi Chowk",
+      "Shivaji Colony",
+      "Indira Colony",
+      "Old City",
       "Sadar Bazar",
       "Kuchaman Road",
       "Didwana Road",
@@ -1599,9 +2644,19 @@
       "Ramesh Colony",
       "Station Road",
       "Mahaveer Nagar",
-      "Sindhari"
+      "Sindhari",
+      "Bhatia Colony",
+      "Sadar Bazar",
+      "Chohtan Road",
+      "Guda Road",
+      "Balotra Road"
     ],
     "droppingPoints": [
+      "Indira Colony",
+      "Ramesh Colony",
+      "Station Road",
+      "Mahaveer Nagar",
+      "Sindhari",
       "Bhatia Colony",
       "Sadar Bazar",
       "Chohtan Road",
@@ -1616,9 +2671,19 @@
       "Gadisar Road",
       "Shiv Road",
       "Panchayat Samiti",
-      "Police Line"
+      "Police Line",
+      "Sam Sand Dunes",
+      "Indira Colony",
+      "Kuldhara Road",
+      "Air Force Circle",
+      "Amarsagar Road"
     ],
     "droppingPoints": [
+      "Hanuman Circle",
+      "Gadisar Road",
+      "Shiv Road",
+      "Panchayat Samiti",
+      "Police Line",
       "Sam Sand Dunes",
       "Indira Colony",
       "Kuldhara Road",
@@ -1633,9 +2698,19 @@
       "Model Town",
       "Samrala Chowk",
       "Ferozepur Road",
-      "Jagraon Bridge"
+      "Jagraon Bridge",
+      "Industrial Area",
+      "BRS Nagar",
+      "Sarabha Nagar",
+      "Bus Stand",
+      "Pakhowal Road"
     ],
     "droppingPoints": [
+      "Gill Road",
+      "Model Town",
+      "Samrala Chowk",
+      "Ferozepur Road",
+      "Jagraon Bridge",
       "Industrial Area",
       "BRS Nagar",
       "Sarabha Nagar",
@@ -1650,9 +2725,19 @@
       "Hall Bazar",
       "Putlighar",
       "Batala Road",
-      "Katra Jaimal Singh"
+      "Katra Jaimal Singh",
+      "Golden Temple Road",
+      "Lawrence Road",
+      "Mall Road",
+      "Sultanwind",
+      "Verka"
     ],
     "droppingPoints": [
+      "Ranjit Avenue",
+      "Hall Bazar",
+      "Putlighar",
+      "Batala Road",
+      "Katra Jaimal Singh",
       "Golden Temple Road",
       "Lawrence Road",
       "Mall Road",
@@ -1667,9 +2752,19 @@
       "Model Town",
       "GT Road",
       "Maqsudan",
-      "BMC Chowk"
+      "BMC Chowk",
+      "Railway Road",
+      "Adarsh Nagar",
+      "Urban Estate",
+      "Nakodar Road",
+      "Basti Sheikh"
     ],
     "droppingPoints": [
+      "Ladowali Road",
+      "Model Town",
+      "GT Road",
+      "Maqsudan",
+      "BMC Chowk",
       "Railway Road",
       "Adarsh Nagar",
       "Urban Estate",
@@ -1684,9 +2779,19 @@
       "Tripuri",
       "Urban Estate",
       "Sanauri Adda",
-      "Baradari"
+      "Baradari",
+      "Anand Nagar",
+      "Sirhind Road",
+      "Charan Bagh",
+      "Sheran Wala Gate",
+      "Bhadson Road"
     ],
     "droppingPoints": [
+      "Leela Bhawan",
+      "Tripuri",
+      "Urban Estate",
+      "Sanauri Adda",
+      "Baradari",
       "Anand Nagar",
       "Sirhind Road",
       "Charan Bagh",
@@ -1701,9 +2806,19 @@
       "Parasram Nagar",
       "Civil Lines",
       "Power House Road",
-      "Talwandi Sabo Road"
+      "Talwandi Sabo Road",
+      "Bhucho Mandi",
+      "Rampura Phul",
+      "Railway Colony",
+      "Balluana",
+      "Thermal Colony"
     ],
     "droppingPoints": [
+      "Goniana Road",
+      "Parasram Nagar",
+      "Civil Lines",
+      "Power House Road",
+      "Talwandi Sabo Road",
       "Bhucho Mandi",
       "Rampura Phul",
       "Railway Colony",
@@ -1718,9 +2833,19 @@
       "Phase 3B2",
       "Sector 70",
       "Sector 79",
-      "Phase 7"
+      "Phase 7",
+      "Sector 67",
+      "Phase 11",
+      "Sector 76",
+      "Industrial Area",
+      "Phase 9"
     ],
     "droppingPoints": [
+      "Phase 1",
+      "Phase 3B2",
+      "Sector 70",
+      "Sector 79",
+      "Phase 7",
       "Sector 67",
       "Phase 11",
       "Sector 76",
@@ -1735,9 +2860,19 @@
       "Model Town",
       "Court Road",
       "Tanda Road",
-      "Phagwara Road"
+      "Phagwara Road",
+      "Mukerian Road",
+      "Sham Chaurasi",
+      "Urban Estate",
+      "Bulhowal",
+      "Chabbewal"
     ],
     "droppingPoints": [
+      "Railway Road",
+      "Model Town",
+      "Court Road",
+      "Tanda Road",
+      "Phagwara Road",
       "Mukerian Road",
       "Sham Chaurasi",
       "Urban Estate",
@@ -1752,9 +2887,19 @@
       "Ferozepur Road",
       "Ajitwal",
       "Gill Road",
-      "Badhni Kalan"
+      "Badhni Kalan",
+      "Kot Ise Khan",
+      "Dharamkot",
+      "Baghapurana",
+      "Ghal Kalan",
+      "Landeke"
     ],
     "droppingPoints": [
+      "Bus Stand",
+      "Ferozepur Road",
+      "Ajitwal",
+      "Gill Road",
+      "Badhni Kalan",
       "Kot Ise Khan",
       "Dharamkot",
       "Baghapurana",
@@ -1769,9 +2914,19 @@
       "Dalhousie Road",
       "Mamun",
       "Mamoon Cantt",
-      "Gandhi Chowk"
+      "Gandhi Chowk",
+      "Sujanpur",
+      "Dhangu Road",
+      "Shastri Nagar",
+      "Jasrota Road",
+      "Defense Colony"
     ],
     "droppingPoints": [
+      "Mission Road",
+      "Dalhousie Road",
+      "Mamun",
+      "Mamoon Cantt",
+      "Gandhi Chowk",
       "Sujanpur",
       "Dhangu Road",
       "Shastri Nagar",
@@ -1786,9 +2941,19 @@
       "Bus Stand",
       "Sultanpur Road",
       "Model Town",
-      "Court Road"
+      "Court Road",
+      "Urban Estate",
+      "Randhirpur Road",
+      "Fatehpur",
+      "Jalandhar Road",
+      "Bholath Road"
     ],
     "droppingPoints": [
+      "Railway Station",
+      "Bus Stand",
+      "Sultanpur Road",
+      "Model Town",
+      "Court Road",
       "Urban Estate",
       "Randhirpur Road",
       "Fatehpur",
@@ -1803,9 +2968,19 @@
       "City Center",
       "Ferozepur Cantt",
       "Railway Road",
-      "Faridkot Road"
+      "Faridkot Road",
+      "Makhu Road",
+      "Zira Road",
+      "Basti Tankanwali",
+      "Talwandi Bhai",
+      "Sadiq Road"
     ],
     "droppingPoints": [
+      "Mallanwala",
+      "City Center",
+      "Ferozepur Cantt",
+      "Railway Road",
+      "Faridkot Road",
       "Makhu Road",
       "Zira Road",
       "Basti Tankanwali",
@@ -1820,9 +2995,19 @@
       "Barnala Road",
       "Dhuri Road",
       "Patiala Road",
-      "Bajrang Colony"
+      "Bajrang Colony",
+      "Sunam Road",
+      "Lehragaga Road",
+      "Moti Bagh",
+      "Urban Estate",
+      "Shivaji Colony"
     ],
     "droppingPoints": [
+      "Bus Stand",
+      "Barnala Road",
+      "Dhuri Road",
+      "Patiala Road",
+      "Bajrang Colony",
       "Sunam Road",
       "Lehragaga Road",
       "Moti Bagh",
@@ -1837,9 +3022,19 @@
       "Urban Estate",
       "Railway Road",
       "Friends Colony",
-      "Model Town"
+      "Model Town",
+      "Hadiabad",
+      "Banga Road",
+      "Satnampura",
+      "Sugar Mill Road",
+      "Sukhchain Nagar"
     ],
     "droppingPoints": [
+      "GT Road",
+      "Urban Estate",
+      "Railway Road",
+      "Friends Colony",
+      "Model Town",
       "Hadiabad",
       "Banga Road",
       "Satnampura",
@@ -1854,9 +3049,19 @@
       "Model Town",
       "Court Road",
       "Railway Station",
-      "Sadar Bazar"
+      "Sadar Bazar",
+      "Urban Estate",
+      "Katcha College Road",
+      "Bhadaur Road",
+      "Gurudwara Road",
+      "Patiala Road"
     ],
     "droppingPoints": [
+      "Handiaya Road",
+      "Model Town",
+      "Court Road",
+      "Railway Station",
+      "Sadar Bazar",
       "Urban Estate",
       "Katcha College Road",
       "Bhadaur Road",
@@ -1871,9 +3076,19 @@
       "Railway Road",
       "Hanuman Chowk",
       "Shastri Nagar",
-      "Kalanaur Road"
+      "Kalanaur Road",
+      "Batala Road",
+      "Fatehgarh Churian Road",
+      "Urban Estate",
+      "Jhawar Road",
+      "Bariar Road"
     ],
     "droppingPoints": [
+      "Civil Lines",
+      "Railway Road",
+      "Hanuman Chowk",
+      "Shastri Nagar",
+      "Kalanaur Road",
       "Batala Road",
       "Fatehgarh Churian Road",
       "Urban Estate",
@@ -1881,7 +3096,6 @@
       "Bariar Road"
     ]
   },
-
   {
     "city": "kolkata",
     "boardingPoints": [
@@ -1889,14 +3103,46 @@
       "Howrah Station",
       "Salt Lake Sector V",
       "Park Street",
-      "Dumdum"
+      "Dumdum",
+      "Sealdah",
+      "Garia",
+      "Behala",
+      "Tollygunge",
+      "New Town"
     ],
-    "droppingPoints": ["Sealdah", "Garia", "Behala", "Tollygunge", "New Town"]
+    "droppingPoints": [
+      "Esplanade",
+      "Howrah Station",
+      "Salt Lake Sector V",
+      "Park Street",
+      "Dumdum",
+      "Sealdah",
+      "Garia",
+      "Behala",
+      "Tollygunge",
+      "New Town"
+    ]
   },
   {
     "city": "howrah",
-    "boardingPoints": ["Shibpur", "Santragachi", "Liluah", "Domjur", "Belur"],
+    "boardingPoints": [
+      "Shibpur",
+      "Santragachi",
+      "Liluah",
+      "Domjur",
+      "Belur",
+      "Uluberia",
+      "Andul",
+      "Bally",
+      "Kona Expressway",
+      "Makardaha"
+    ],
     "droppingPoints": [
+      "Shibpur",
+      "Santragachi",
+      "Liluah",
+      "Domjur",
+      "Belur",
       "Uluberia",
       "Andul",
       "Bally",
@@ -1911,9 +3157,19 @@
       "Benachity",
       "Muchipara",
       "Bidhannagar",
-      "Rajbandh"
+      "Rajbandh",
+      "Steel Township",
+      "Andal",
+      "A-Zone",
+      "Gandhi More",
+      "Fuljhore"
     ],
     "droppingPoints": [
+      "City Center",
+      "Benachity",
+      "Muchipara",
+      "Bidhannagar",
+      "Rajbandh",
       "Steel Township",
       "Andal",
       "A-Zone",
@@ -1928,9 +3184,19 @@
       "Court More",
       "Hutton Road",
       "Kanyapur",
-      "Rahmatnagar"
+      "Rahmatnagar",
+      "Ushagram",
+      "Chandmari",
+      "Railway Colony",
+      "Gopalpur",
+      "Sitarampur"
     ],
     "droppingPoints": [
+      "Burnpur",
+      "Court More",
+      "Hutton Road",
+      "Kanyapur",
+      "Rahmatnagar",
       "Ushagram",
       "Chandmari",
       "Railway Colony",
@@ -1945,9 +3211,19 @@
       "Jalpaiguri Road",
       "Pradhan Nagar",
       "Salbari",
-      "Hill Cart Road"
+      "Hill Cart Road",
+      "Matigara",
+      "Darjeeling More",
+      "Shiv Mandir",
+      "Bidhannagar",
+      "Bagdogra"
     ],
     "droppingPoints": [
+      "Sevoke Road",
+      "Jalpaiguri Road",
+      "Pradhan Nagar",
+      "Salbari",
+      "Hill Cart Road",
       "Matigara",
       "Darjeeling More",
       "Shiv Mandir",
@@ -1962,9 +3238,19 @@
       "Rathbari",
       "Chanchal",
       "Kaliachak",
-      "Gazole"
+      "Gazole",
+      "Old Malda",
+      "Habibpur",
+      "Sujapur",
+      "Bulbulchandi",
+      "Manikchak"
     ],
     "droppingPoints": [
+      "English Bazar",
+      "Rathbari",
+      "Chanchal",
+      "Kaliachak",
+      "Gazole",
       "Old Malda",
       "Habibpur",
       "Sujapur",
@@ -1979,9 +3265,19 @@
       "Prem Bazaar",
       "Malanchapara",
       "Hijli",
-      "Chandmari"
+      "Chandmari",
+      "Kaliabeda",
+      "Kalaikunda",
+      "Haldia Gate",
+      "Golebazar",
+      "Midnapore Road"
     ],
     "droppingPoints": [
+      "Inda",
+      "Prem Bazaar",
+      "Malanchapara",
+      "Hijli",
+      "Chandmari",
       "Kaliabeda",
       "Kalaikunda",
       "Haldia Gate",
@@ -1996,9 +3292,19 @@
       "Chakdwipa",
       "Banbishnupur",
       "Barda",
-      "Bhabanipur"
+      "Bhabanipur",
+      "Haldia Dock",
+      "City Centre",
+      "Ranichak",
+      "Bauria",
+      "Mahishadal"
     ],
     "droppingPoints": [
+      "Durgachak",
+      "Chakdwipa",
+      "Banbishnupur",
+      "Barda",
+      "Bhabanipur",
       "Haldia Dock",
       "City Centre",
       "Ranichak",
@@ -2013,9 +3319,19 @@
       "Rajbati",
       "Golapbag",
       "Kalna Road",
-      "Shyamsayer"
+      "Shyamsayer",
+      "Uttarpara",
+      "Katwa Road",
+      "Birhata",
+      "Khosbagan",
+      "Sripally"
     ],
     "droppingPoints": [
+      "Grand Trunk Road",
+      "Rajbati",
+      "Golapbag",
+      "Kalna Road",
+      "Shyamsayer",
       "Uttarpara",
       "Katwa Road",
       "Birhata",
@@ -2030,9 +3346,19 @@
       "Dakshinpara",
       "Khalpara",
       "Babupara",
-      "Shantinagar"
+      "Shantinagar",
+      "Mainaguri",
+      "Maynaguri Road",
+      "Rajganj",
+      "Dhupguri",
+      "Siliguri More"
     ],
     "droppingPoints": [
+      "Sadar",
+      "Dakshinpara",
+      "Khalpara",
+      "Babupara",
+      "Shantinagar",
       "Mainaguri",
       "Maynaguri Road",
       "Rajganj",
@@ -2047,9 +3373,19 @@
       "Collectorate Road",
       "Nimtala",
       "Beledanga",
-      "Palpara"
+      "Palpara",
+      "Hanshkhali",
+      "Kalipur",
+      "Jalangi Road",
+      "Chakdaha",
+      "Bethuadahari"
     ],
     "droppingPoints": [
+      "Barabazar",
+      "Collectorate Road",
+      "Nimtala",
+      "Beledanga",
+      "Palpara",
       "Hanshkhali",
       "Kalipur",
       "Jalangi Road",
@@ -2064,9 +3400,19 @@
       "Keranitola",
       "Chakla",
       "Raja Bazaar",
-      "Abasbari"
+      "Abasbari",
+      "Khirpai",
+      "Salboni",
+      "Kharagpur Road",
+      "Garbeta",
+      "Goaltore"
     ],
     "droppingPoints": [
+      "Rabindra Nagar",
+      "Keranitola",
+      "Chakla",
+      "Raja Bazaar",
+      "Abasbari",
       "Khirpai",
       "Salboni",
       "Kharagpur Road",
@@ -2081,9 +3427,19 @@
       "Buxa Road",
       "College Para",
       "Railway Bazar",
-      "Madanmohan Para"
+      "Madanmohan Para",
+      "Falakata",
+      "Kalchini",
+      "Hasimara",
+      "Hamiltonganj",
+      "Jayanti Road"
     ],
     "droppingPoints": [
+      "Newtown",
+      "Buxa Road",
+      "College Para",
+      "Railway Bazar",
+      "Madanmohan Para",
       "Falakata",
       "Kalchini",
       "Hasimara",
@@ -2098,9 +3454,19 @@
       "Machantala",
       "Kenduadihi",
       "Ghorabandha",
-      "Kanchanpur"
+      "Kanchanpur",
+      "Chhatna",
+      "Indpur",
+      "Khatra",
+      "Sonamukhi",
+      "Raipur Road"
     ],
     "droppingPoints": [
+      "Bishnupur Road",
+      "Machantala",
+      "Kenduadihi",
+      "Ghorabandha",
+      "Kanchanpur",
       "Chhatna",
       "Indpur",
       "Khatra",
@@ -2115,14 +3481,1048 @@
       "Sagardighi",
       "Sunity Road",
       "Rajbari Road",
-      "Madan Mohan Para"
-    ],
-    "droppingPoints": [
+      "Madan Mohan Para",
       "Tufanganj",
       "Mathabhanga",
       "Dinhata",
       "Ghughumari",
       "Chakchaka"
+    ],
+    "droppingPoints": [
+      "Rash Mela Maidan",
+      "Sagardighi",
+      "Sunity Road",
+      "Rajbari Road",
+      "Madan Mohan Para",
+      "Tufanganj",
+      "Mathabhanga",
+      "Dinhata",
+      "Ghughumari",
+      "Chakchaka"
+    ]
+  },
+  {
+    "city": "thiruvananthapuram",
+    "boardingPoints": [
+      "Thampanoor Bus Stand",
+      "Kazhakoottam",
+      "East Fort",
+      "Pappanamcode",
+      "Sreekaryam",
+      "Technopark",
+      "Kovalam Junction",
+      "Pettah",
+      "Attingal",
+      "Neyyattinkara"
+    ],
+    "droppingPoints": [
+      "Thampanoor Bus Stand",
+      "Kazhakoottam",
+      "East Fort",
+      "Pappanamcode",
+      "Sreekaryam",
+      "Technopark",
+      "Kovalam Junction",
+      "Pettah",
+      "Attingal",
+      "Neyyattinkara"
+    ]
+  },
+  {
+    "city": "kochi",
+    "boardingPoints": [
+      "Vyttila Mobility Hub",
+      "Edappally",
+      "Aluva Bypass",
+      "Fort Kochi",
+      "Kaloor",
+      "Marine Drive",
+      "Palarivattom",
+      "Tripunithura",
+      "Cherai Beach",
+      "Kakkanad"
+    ],
+    "droppingPoints": [
+      "Vyttila Mobility Hub",
+      "Edappally",
+      "Aluva Bypass",
+      "Fort Kochi",
+      "Kaloor",
+      "Marine Drive",
+      "Palarivattom",
+      "Tripunithura",
+      "Cherai Beach",
+      "Kakkanad"
+    ]
+  },
+  {
+    "city": "kozhikode",
+    "boardingPoints": [
+      "Mavoor Road",
+      "Palayam Bus Stand",
+      "Ramanattukara",
+      "Thondayad",
+      "Kallayi",
+      "Kappad Beach",
+      "Vadakara",
+      "Feroke",
+      "Kunnamangalam",
+      "Nadakkavu"
+    ],
+    "droppingPoints": [
+      "Mavoor Road",
+      "Palayam Bus Stand",
+      "Ramanattukara",
+      "Thondayad",
+      "Kallayi",
+      "Kappad Beach",
+      "Vadakara",
+      "Feroke",
+      "Kunnamangalam",
+      "Nadakkavu"
+    ]
+  },
+  {
+    "city": "thrissur",
+    "boardingPoints": [
+      "Sakthan Bus Stand",
+      "Poothole",
+      "Ollur",
+      "Punkunnam",
+      "Athani",
+      "Guruvayur",
+      "Kodungallur",
+      "Wadakkanchery",
+      "Chalakudy",
+      "Irinjalakuda"
+    ],
+    "droppingPoints": [
+      "Sakthan Bus Stand",
+      "Poothole",
+      "Ollur",
+      "Punkunnam",
+      "Athani",
+      "Guruvayur",
+      "Kodungallur",
+      "Wadakkanchery",
+      "Chalakudy",
+      "Irinjalakuda"
+    ]
+  },
+  {
+    "city": "malappuram",
+    "boardingPoints": [
+      "Up Hill",
+      "Kottakkal",
+      "Perinthalmanna",
+      "Kondotty",
+      "Tirur",
+      "Nilambur",
+      "Manjeri",
+      "Parappanangadi",
+      "Tanur",
+      "Vengara"
+    ],
+    "droppingPoints": [
+      "Up Hill",
+      "Kottakkal",
+      "Perinthalmanna",
+      "Kondotty",
+      "Tirur",
+      "Nilambur",
+      "Manjeri",
+      "Parappanangadi",
+      "Tanur",
+      "Vengara"
+    ]
+  },
+  {
+    "city": "kannur",
+    "boardingPoints": [
+      "Thavakkara Bus Stand",
+      "Payyanur",
+      "Thalassery",
+      "Mattannur",
+      "Panoor",
+      "Iritty",
+      "Chirakkal",
+      "Muzhappilangad",
+      "Valapattanam",
+      "Taliparamba"
+    ],
+    "droppingPoints": [
+      "Thavakkara Bus Stand",
+      "Payyanur",
+      "Thalassery",
+      "Mattannur",
+      "Panoor",
+      "Iritty",
+      "Chirakkal",
+      "Muzhappilangad",
+      "Valapattanam",
+      "Taliparamba"
+    ]
+  },
+  {
+    "city": "kollam",
+    "boardingPoints": [
+      "Tangasseri",
+      "Chinnakada",
+      "Karunagappally",
+      "Kottarakkara",
+      "Parippally",
+      "Punalur",
+      "Anchal",
+      "Sasthamkotta",
+      "Kundara",
+      "Kottiyam"
+    ],
+    "droppingPoints": [
+      "Tangasseri",
+      "Chinnakada",
+      "Karunagappally",
+      "Kottarakkara",
+      "Parippally",
+      "Punalur",
+      "Anchal",
+      "Sasthamkotta",
+      "Kundara",
+      "Kottiyam"
+    ]
+  },
+  {
+    "city": "alappuzha",
+    "boardingPoints": [
+      "Alappuzha KSRTC",
+      "Pathirappally",
+      "Kalavoor",
+      "Ambalapuzha",
+      "Cherthala",
+      "Mararikulam",
+      "Haripad",
+      "Thumpoly",
+      "Mannar",
+      "Kayamkulam"
+    ],
+    "droppingPoints": [
+      "Alappuzha KSRTC",
+      "Pathirappally",
+      "Kalavoor",
+      "Ambalapuzha",
+      "Cherthala",
+      "Mararikulam",
+      "Haripad",
+      "Thumpoly",
+      "Mannar",
+      "Kayamkulam"
+    ]
+  },
+  {
+    "city": "palakkad",
+    "boardingPoints": [
+      "Stadium Bus Stand",
+      "Olavakkode",
+      "Chandranagar",
+      "Malampuzha",
+      "Kanjikode",
+      "Alathur",
+      "Ottapalam",
+      "Shoranur",
+      "Vadakkenchery",
+      "Chittur"
+    ],
+    "droppingPoints": [
+      "Stadium Bus Stand",
+      "Olavakkode",
+      "Chandranagar",
+      "Malampuzha",
+      "Kanjikode",
+      "Alathur",
+      "Ottapalam",
+      "Shoranur",
+      "Vadakkenchery",
+      "Chittur"
+    ]
+  },
+  {
+    "city": "vatakara",
+    "boardingPoints": [
+      "Vatakara KSRTC",
+      "Moorad",
+      "Mahe Junction",
+      "Kuttiadi",
+      "Onchiyam",
+      "Nadapuram",
+      "Thikkodi",
+      "Payyoli",
+      "Melady",
+      "Koyilandy"
+    ],
+    "droppingPoints": [
+      "Vatakara KSRTC",
+      "Moorad",
+      "Mahe Junction",
+      "Kuttiadi",
+      "Onchiyam",
+      "Nadapuram",
+      "Thikkodi",
+      "Payyoli",
+      "Melady",
+      "Koyilandy"
+    ]
+  },
+  {
+    "city": "kottayam",
+    "boardingPoints": [
+      "Nagampadam",
+      "Kumarakom",
+      "Ettumanoor",
+      "Pala",
+      "Changanassery",
+      "Vaikom",
+      "Manarcaud",
+      "Kanjirappally",
+      "Kidangoor",
+      "Poovanthuruthu"
+    ],
+    "droppingPoints": [
+      "Nagampadam",
+      "Kumarakom",
+      "Ettumanoor",
+      "Pala",
+      "Changanassery",
+      "Vaikom",
+      "Manarcaud",
+      "Kanjirappally",
+      "Kidangoor",
+      "Poovanthuruthu"
+    ]
+  },
+  {
+    "city": "thalassery",
+    "boardingPoints": [
+      "New Bus Stand",
+      "Dharmadam",
+      "Mahe",
+      "Eranholi",
+      "Kannur Road",
+      "Kadirur",
+      "Pinarayi",
+      "Koothuparamba",
+      "Chokli",
+      "Thiruvangad"
+    ],
+    "droppingPoints": [
+      "New Bus Stand",
+      "Dharmadam",
+      "Mahe",
+      "Eranholi",
+      "Kannur Road",
+      "Kadirur",
+      "Pinarayi",
+      "Koothuparamba",
+      "Chokli",
+      "Thiruvangad"
+    ]
+  },
+  {
+    "city": "idukki",
+    "boardingPoints": [
+      "Cheruthoni",
+      "Painavu",
+      "Kattappana",
+      "Moolamattom",
+      "Thodupuzha",
+      "Munnar",
+      "Kumily",
+      "Peermade",
+      "Ramakkalmedu",
+      "Vagamon"
+    ],
+    "droppingPoints": [
+      "Cheruthoni",
+      "Painavu",
+      "Kattappana",
+      "Moolamattom",
+      "Thodupuzha",
+      "Munnar",
+      "Kumily",
+      "Peermade",
+      "Ramakkalmedu",
+      "Vagamon"
+    ]
+  },
+  {
+    "city": "punalur",
+    "boardingPoints": [
+      "Punalur KSRTC",
+      "Kottarakkara Road",
+      "Pathanapuram",
+      "Anchal",
+      "Aryankavu",
+      "Thenmala",
+      "Edamon",
+      "Kunnicode",
+      "Vettikkavala",
+      "Chadayamangalam"
+    ],
+    "droppingPoints": [
+      "Punalur KSRTC",
+      "Kottarakkara Road",
+      "Pathanapuram",
+      "Anchal",
+      "Aryankavu",
+      "Thenmala",
+      "Edamon",
+      "Kunnicode",
+      "Vettikkavala",
+      "Chadayamangalam"
+    ]
+  },
+  {
+    "city": "mattancheri",
+    "boardingPoints": [
+      "Mattancherry Jetty",
+      "Fort Kochi Bus Stop",
+      "Jew Town",
+      "Pandikudy",
+      "Kumbalangi",
+      "Thoppumpady",
+      "Palluruthy",
+      "Willingdon Island",
+      "Kochi Port",
+      "Edakochi"
+    ],
+    "droppingPoints": [
+      "Mattancherry Jetty",
+      "Fort Kochi Bus Stop",
+      "Jew Town",
+      "Pandikudy",
+      "Kumbalangi",
+      "Thoppumpady",
+      "Palluruthy",
+      "Willingdon Island",
+      "Kochi Port",
+      "Edakochi"
+    ]
+  },
+  {
+    "city": "changanassery",
+    "boardingPoints": [
+      "Changanassery KSRTC",
+      "Vazhappally",
+      "Perunna",
+      "Kurichy",
+      "Kidangara",
+      "Thrickodithanam",
+      "Vakathanam",
+      "Thalavady",
+      "Pulinkunnu",
+      "Veliyanad"
+    ],
+    "droppingPoints": [
+      "Changanassery KSRTC",
+      "Vazhappally",
+      "Perunna",
+      "Kurichy",
+      "Kidangara",
+      "Thrickodithanam",
+      "Vakathanam",
+      "Thalavady",
+      "Pulinkunnu",
+      "Veliyanad"
+    ]
+  },
+  {
+    "city": "payyanur",
+    "boardingPoints": [
+      "Payyanur New Bus Stand",
+      "Kurumathur",
+      "Ezhimala",
+      "Pilathara",
+      "Kunhimangalam",
+      "Ramanthali",
+      "Cheruthazham",
+      "Mathamangalam",
+      "Perumba",
+      "Pariyaram"
+    ],
+    "droppingPoints": [
+      "Payyanur New Bus Stand",
+      "Kurumathur",
+      "Ezhimala",
+      "Pilathara",
+      "Kunhimangalam",
+      "Ramanthali",
+      "Cheruthazham",
+      "Mathamangalam",
+      "Perumba",
+      "Pariyaram"
+    ]
+  },
+  {
+    "city": "perinthalmanna",
+    "boardingPoints": [
+      "Perinthalmanna KSRTC",
+      "Angadippuram",
+      "Melattur",
+      "Koottilangadi",
+      "Pandikkad",
+      "Manjeri",
+      "Kottakkal",
+      "Karinkallathani",
+      "Valanchery"
+    ],
+    "droppingPoints": [
+      "Perinthalmanna KSRTC",
+      "Angadippuram",
+      "Melattur",
+      "Koottilangadi",
+      "Pandikkad",
+      "Manjeri",
+      "Kottakkal",
+      "Karinkallathani",
+      "Valanchery"
+    ]
+  },
+  {
+    "city": "indore",
+    "boardingPoints": [
+      "Sarwate Bus Stand",
+      "Vijay Nagar",
+      "Bhawarkua",
+      "Navlakha",
+      "Rajendra Nagar",
+      "LIG Square",
+      "Khajrana",
+      "Rau",
+      "Palasia",
+      "Dewas Naka"
+    ],
+    "droppingPoints": [
+      "Sarwate Bus Stand",
+      "Vijay Nagar",
+      "Bhawarkua",
+      "Navlakha",
+      "Rajendra Nagar",
+      "LIG Square",
+      "Khajrana",
+      "Rau",
+      "Palasia",
+      "Dewas Naka"
+    ]
+  },
+  {
+    "city": "bhopal",
+    "boardingPoints": [
+      "ISBT",
+      "Habibganj",
+      "New Market",
+      "Bairagarh",
+      "Kolar Road",
+      "MP Nagar",
+      "Ashoka Garden",
+      "Hoshangabad Road",
+      "Arera Colony",
+      "Mandideep"
+    ],
+    "droppingPoints": [
+      "ISBT",
+      "Habibganj",
+      "New Market",
+      "Bairagarh",
+      "Kolar Road",
+      "MP Nagar",
+      "Ashoka Garden",
+      "Hoshangabad Road",
+      "Arera Colony",
+      "Mandideep"
+    ]
+  },
+  {
+    "city": "jabalpur",
+    "boardingPoints": [
+      "Damoh Naka",
+      "Ranjhi",
+      "Madan Mahal",
+      "Wright Town",
+      "Napier Town",
+      "Katangi",
+      "Gwarighat",
+      "Sihora",
+      "Tilwara",
+      "Garha"
+    ],
+    "droppingPoints": [
+      "Damoh Naka",
+      "Ranjhi",
+      "Madan Mahal",
+      "Wright Town",
+      "Napier Town",
+      "Katangi",
+      "Gwarighat",
+      "Sihora",
+      "Tilwara",
+      "Garha"
+    ]
+  },
+  {
+    "city": "gwalior",
+    "boardingPoints": [
+      "Gole Ka Mandir",
+      "Thatipur",
+      "Morar",
+      "Phoolbagh",
+      "Lashkar",
+      "Dabra",
+      "Birla Nagar",
+      "DD Nagar",
+      "Bahodapur",
+      "Hazira"
+    ],
+    "droppingPoints": [
+      "Gole Ka Mandir",
+      "Thatipur",
+      "Morar",
+      "Phoolbagh",
+      "Lashkar",
+      "Dabra",
+      "Birla Nagar",
+      "DD Nagar",
+      "Bahodapur",
+      "Hazira"
+    ]
+  },
+  {
+    "city": "ujjain",
+    "boardingPoints": [
+      "Nanakheda Bus Stand",
+      "Freeganj",
+      "Dewas Gate",
+      "Vikram Nagar",
+      "Mahakal Mandir",
+      "Chintaman",
+      "Nagjhiri",
+      "Kharakuan",
+      "Maksi Road",
+      "Chandesari"
+    ],
+    "droppingPoints": [
+      "Nanakheda Bus Stand",
+      "Freeganj",
+      "Dewas Gate",
+      "Vikram Nagar",
+      "Mahakal Mandir",
+      "Chintaman",
+      "Nagjhiri",
+      "Kharakuan",
+      "Maksi Road",
+      "Chandesari"
+    ]
+  },
+  {
+    "city": "sagar",
+    "boardingPoints": [
+      "Katra Bus Stand",
+      "Civil Lines",
+      "Makronia",
+      "Cantt",
+      "Moti Nagar",
+      "Khurai",
+      "Garhakota",
+      "Rahatgarh",
+      "Bina",
+      "Bamora"
+    ],
+    "droppingPoints": [
+      "Katra Bus Stand",
+      "Civil Lines",
+      "Makronia",
+      "Cantt",
+      "Moti Nagar",
+      "Khurai",
+      "Garhakota",
+      "Rahatgarh",
+      "Bina",
+      "Bamora"
+    ]
+  },
+  {
+    "city": "ratlam",
+    "boardingPoints": [
+      "Ratlam Bus Stand",
+      "Jaora Road",
+      "Kalika Mata Road",
+      "Sailana",
+      "Alot",
+      "Namli",
+      "Dhamnod",
+      "Mhow Road",
+      "Manak Chowk",
+      "Bajna"
+    ],
+    "droppingPoints": [
+      "Ratlam Bus Stand",
+      "Jaora Road",
+      "Kalika Mata Road",
+      "Sailana",
+      "Alot",
+      "Namli",
+      "Dhamnod",
+      "Mhow Road",
+      "Manak Chowk",
+      "Bajna"
+    ]
+  },
+  {
+    "city": "bhind",
+    "boardingPoints": [
+      "Bhind Bus Stand",
+      "Gohad",
+      "Mehgaon",
+      "Ater",
+      "Gormi",
+      "Mau",
+      "Lahar",
+      "Phoop",
+      "Andori",
+      "Rohini"
+    ],
+    "droppingPoints": [
+      "Bhind Bus Stand",
+      "Gohad",
+      "Mehgaon",
+      "Ater",
+      "Gormi",
+      "Mau",
+      "Lahar",
+      "Phoop",
+      "Andori",
+      "Rohini"
+    ]
+  },
+  {
+    "city": "satna",
+    "boardingPoints": [
+      "Satna Bus Stand",
+      "Civil Lines",
+      "Nagod",
+      "Kotar",
+      "Unchehara",
+      "Maihar",
+      "Chitrakoot",
+      "Birsinghpur",
+      "Amarpatan",
+      "Kothi"
+    ],
+    "droppingPoints": [
+      "Satna Bus Stand",
+      "Civil Lines",
+      "Nagod",
+      "Kotar",
+      "Unchehara",
+      "Maihar",
+      "Chitrakoot",
+      "Birsinghpur",
+      "Amarpatan",
+      "Kothi"
+    ]
+  },
+  {
+    "city": "burhanpur",
+    "boardingPoints": [
+      "Burhanpur Bus Stand",
+      "Shikarpura",
+      "Nai Duniya",
+      "Ichhapur",
+      "Power House",
+      "Nepanagar",
+      "Shahpur",
+      "Chhanera",
+      "Khaknar",
+      "Asirgarh"
+    ],
+    "droppingPoints": [
+      "Burhanpur Bus Stand",
+      "Shikarpura",
+      "Nai Duniya",
+      "Ichhapur",
+      "Power House",
+      "Nepanagar",
+      "Shahpur",
+      "Chhanera",
+      "Khaknar",
+      "Asirgarh"
+    ]
+  },
+  {
+    "city": "chhindwara",
+    "boardingPoints": [
+      "Chhindwara Bus Stand",
+      "Railway Station",
+      "Khajri",
+      "Parasia",
+      "Mohgaon",
+      "Pandhurna",
+      "Sausar",
+      "Umreth",
+      "Harrai",
+      "Jamai"
+    ],
+    "droppingPoints": [
+      "Chhindwara Bus Stand",
+      "Railway Station",
+      "Khajri",
+      "Parasia",
+      "Mohgaon",
+      "Pandhurna",
+      "Sausar",
+      "Umreth",
+      "Harrai",
+      "Jamai"
+    ]
+  },
+  {
+    "city": "vidisha",
+    "boardingPoints": [
+      "Vidisha Bus Stand",
+      "Kakrabad",
+      "Kurwai",
+      "Sironj",
+      "Ganj Basoda",
+      "Shamshabad",
+      "Lateri",
+      "Udaipura",
+      "Tyonda",
+      "Basoda"
+    ],
+    "droppingPoints": [
+      "Vidisha Bus Stand",
+      "Kakrabad",
+      "Kurwai",
+      "Sironj",
+      "Ganj Basoda",
+      "Shamshabad",
+      "Lateri",
+      "Udaipura",
+      "Tyonda",
+      "Basoda"
+    ]
+  },
+  {
+    "city": "sehore",
+    "boardingPoints": [
+      "Sehore Bus Stand",
+      "Bilkisganj",
+      "Ichhawar",
+      "Ashta",
+      "Shyampur",
+      "Nasrullaganj",
+      "Rehti",
+      "Kotri",
+      "Paras",
+      "Amlaha"
+    ],
+    "droppingPoints": [
+      "Sehore Bus Stand",
+      "Bilkisganj",
+      "Ichhawar",
+      "Ashta",
+      "Shyampur",
+      "Nasrullaganj",
+      "Rehti",
+      "Kotri",
+      "Paras",
+      "Amlaha"
+    ]
+  },
+  {
+    "city": "guna",
+    "boardingPoints": [
+      "Guna Bus Stand",
+      "Cantt Area",
+      "AB Road",
+      "Aron",
+      "Raghogarh",
+      "Kumbhraj",
+      "Bamori",
+      "Kanchanpur",
+      "Maksi",
+      "Binaganj"
+    ],
+    "droppingPoints": [
+      "Guna Bus Stand",
+      "Cantt Area",
+      "AB Road",
+      "Aron",
+      "Raghogarh",
+      "Kumbhraj",
+      "Bamori",
+      "Kanchanpur",
+      "Maksi",
+      "Binaganj"
+    ]
+  },
+  {
+    "city": "chhatarpur",
+    "boardingPoints": [
+      "Chhatarpur Bus Stand",
+      "Nowgong",
+      "Khajuraho",
+      "Rajnagar",
+      "Bada Malhara",
+      "Laundi",
+      "Harpalpur",
+      "Bijawar",
+      "Maharajpur",
+      "Garhi-Malhera"
+    ],
+    "droppingPoints": [
+      "Chhatarpur Bus Stand",
+      "Nowgong",
+      "Khajuraho",
+      "Rajnagar",
+      "Bada Malhara",
+      "Laundi",
+      "Harpalpur",
+      "Bijawar",
+      "Maharajpur",
+      "Garhi-Malhera"
+    ]
+  },
+  {
+    "city": "rewa",
+    "boardingPoints": [
+      "Rewa Bus Stand",
+      "Chorhata",
+      "Mangawan",
+      "Govindgarh",
+      "Raisen Road",
+      "Semariya",
+      "Sirmour",
+      "Hanumana",
+      "Teonthar",
+      "Gurh"
+    ],
+    "droppingPoints": [
+      "Rewa Bus Stand",
+      "Chorhata",
+      "Mangawan",
+      "Govindgarh",
+      "Raisen Road",
+      "Semariya",
+      "Sirmour",
+      "Hanumana",
+      "Teonthar",
+      "Gurh"
+    ]
+  },
+  {
+    "city": "tikamgarh",
+    "boardingPoints": [
+      "Tikamgarh Bus Stand",
+      "Jatara",
+      "Baldevgarh",
+      "Palera",
+      "Khargapur",
+      "Orchha",
+      "Niwari",
+      "Prithvipur",
+      "Mohangarh",
+      "Lidhora Khurd"
+    ],
+    "droppingPoints": [
+      "Tikamgarh Bus Stand",
+      "Jatara",
+      "Baldevgarh",
+      "Palera",
+      "Khargapur",
+      "Orchha",
+      "Niwari",
+      "Prithvipur",
+      "Mohangarh",
+      "Lidhora Khurd"
+    ]
+  },
+  {
+    "city": "damoh",
+    "boardingPoints": [
+      "Damoh Bus Stand",
+      "Hatta",
+      "Jabera",
+      "Patharia",
+      "Tendukheda",
+      "Patera",
+      "Batiagarh",
+      "Kundalpur",
+      "Singrampur",
+      "Gaurihar"
+    ],
+    "droppingPoints": [
+      "Damoh Bus Stand",
+      "Hatta",
+      "Jabera",
+      "Patharia",
+      "Tendukheda",
+      "Patera",
+      "Batiagarh",
+      "Kundalpur",
+      "Singrampur",
+      "Gaurihar"
+    ]
+  },
+  {
+    "city": "katni",
+    "boardingPoints": [
+      "Katni Bus Stand",
+      "Madhav Nagar",
+      "Kymore",
+      "Barhi",
+      "Vijayraghavgarh",
+      "Badwara",
+      "Rithi",
+      "Bahoriband",
+      "Sleemanabad",
+      "Murwara"
+    ],
+    "droppingPoints": [
+      "Katni Bus Stand",
+      "Madhav Nagar",
+      "Kymore",
+      "Barhi",
+      "Vijayraghavgarh",
+      "Badwara",
+      "Rithi",
+      "Bahoriband",
+      "Sleemanabad",
+      "Murwara"
+    ]
+  },
+  {
+    "city": "shivpuri",
+    "boardingPoints": [
+      "Shivpuri Bus Stand",
+      "Karera",
+      "Pohri",
+      "Kolaras",
+      "Badarwas",
+      "Narwar",
+      "Satanwada",
+      "Khaniyadhana",
+      "Bamorkalan",
+      "Picchore"
+    ],
+    "droppingPoints": [
+      "Shivpuri Bus Stand",
+      "Karera",
+      "Pohri",
+      "Kolaras",
+      "Badarwas",
+      "Narwar",
+      "Satanwada",
+      "Khaniyadhana",
+      "Bamorkalan",
+      "Picchore"
     ]
   }
 ]

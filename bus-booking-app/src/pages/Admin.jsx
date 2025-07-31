@@ -411,7 +411,7 @@ function Admin() {
         </div>
       )}
 
-      <div className="displayBuses">
+      {/* <div className="displayBuses">
         {busesToDisplay.length === 0 ? (
           <p className="no-buses">No buses available.</p>
         ) : (
@@ -454,6 +454,63 @@ function Admin() {
                   >
                     Delete
                   </button>
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+      </div> */}
+
+      <div className="displayBuses">
+        {busesToDisplay.length === 0 ? (
+          <div className="frbus">
+            <p className="no-buses">No buses available.</p>
+          </div>
+        ) : (
+          <div className="busDetails">
+            {busesToDisplay.map((bus) => (
+              <div className="busContainer" key={bus.id}>
+                <div className="busLeft">
+                  <div className="busHeader">
+                    <FontAwesomeIcon icon={faBus} className="busIcon" />
+                    <h3>
+                      {bus.busName} <span>({bus.busNumber})</span> &nbsp;{" "}
+                      <small className="busType">{bus.type}</small>
+                      {/* <div className="fare"> ⭐ </div> */}
+                      {/**{bus.rating || "4.6"} */}
+                    </h3>
+                  </div>
+                  <strong className="route">
+                    {bus.from} <span className="arrow">➡️</span> {bus.to}
+                  </strong>
+
+                  <p className="timing">
+                    <strong>{bus.arrivalTime}</strong> -{" "}
+                    <strong>{bus.departureTime}</strong>
+                    <br />
+                    <strong>
+                      {getTotalJourneyTime(bus.arrivalTime, bus.departureTime)}
+                    </strong>
+                  </p>
+
+                  <div className="rating">₹{bus.fare}</div>
+
+                  {/* <small className="busType">{bus.type}</small> */}
+                </div>
+                <div className="busRight">
+                  <div className="fare"> ⭐ {bus.rating || "4.6"}</div>
+
+                  <div className="actionButtons">
+                    <button className="editBtn" onClick={() => setUpdate(bus)}>
+                      Edit
+                    </button>
+                    <button
+                      className="deleteBtn"
+                      onClick={() => deleteBus(bus.id)}
+                    >
+                      Delete
+                    </button>
+                  </div>
                 </div>
               </div>
             ))}

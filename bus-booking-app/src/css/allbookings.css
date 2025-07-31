@@ -1,0 +1,84 @@
+.allbookings-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 25px;
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(6px);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+  font-family: "Poppins", sans-serif;
+}
+
+.allbookings-title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 25px;
+}
+
+.allbookings-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: none;
+  overflow: hidden;
+}
+.allbookings-header {
+  background: rgb(83, 83, 121);
+  color: #ffffff;
+}
+.allbookings-header th {
+  padding: 14px;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.allbookings-row td {
+  padding: 12px;
+  text-align: center;
+  font-size: 14px;
+  border-bottom: 1px solid #e0e0e0;
+  color: #333333;
+}
+
+.allbookings-row:hover {
+  background: rgba(26, 102, 189, 0.08);
+  transition: background 0.3s ease;
+}
+
+.allbookings-empty {
+  margin-left: 50%;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: red;
+  padding: 20px;
+}
+
+.allbookings-passengers {
+  list-style-type: none;
+  padding-left: 18px;
+  margin: 0;
+  text-align: left;
+}
+.allbookings-passengers li {
+  font-size: 13px;
+  color: #444444;
+}
+
+.allbookings-fare {
+  font-weight: bold;
+}
+
+/* === Responsive === */
+/* @media (max-width: 768px) {
+  .allbookings-header th,
+  .allbookings-row td {
+    font-size: 12px;
+    padding: 8px;
+  }
+  .allbookings-title {
+    font-size: 22px;
+  }
+} */

@@ -1,8 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: url('../Assets/bus.jpeg') no-repeat center center fixed;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: url("../Assets/bus.jpeg") no-repeat center center fixed;
   background-size: cover;
   background-position: center;
 }
@@ -45,7 +45,7 @@ body {
   flex-direction: column;
 }
 
-/* ✅ Standard Inputs */
+/* Standard Inputs */
 .form input {
   padding: 10px;
   border: 2px solid #ccc;
@@ -60,14 +60,15 @@ body {
   border-color: black;
 }
 
-/* ✅ Error Messages */
+/*Error Messages */
 .error {
   color: red;
   font-size: 0.8rem;
   margin-top: 5px;
+  text-align: center;
 }
 
-/* ✅ Password Wrapper for Eye Icon */
+/*  Password Wrapper for Eye Icon */
 .passwordWrapper {
   position: relative;
   width: 100%;
@@ -76,13 +77,13 @@ body {
 .passwordInput {
   width: 100%;
   padding: 10px;
-  padding-right: 40px; /* Space for icon */
+  padding-right: 40px;
   border: 2px solid #ccc;
   border-radius: 10px;
   font-size: 16px;
 }
 
-/* ✅ Eye Icon Placement */
+/*  Eye Icon Placement */
 .passwordToggle {
   position: absolute;
   top: 50%;
@@ -97,15 +98,15 @@ body {
   color: #000;
 }
 
-/* ✅ Button Styles */
+/*  Button Styles */
 .buttonRow {
   display: flex;
   justify-content: center;
   margin-top: 20px;
 }
 
-button[type="submit"] {
-  background-color: #28a745;
+.registerbtn {
+  background-color: #0cbb38;
   color: white;
   padding: 12px 30px;
   font-size: 16px;
@@ -116,6 +117,6 @@ button[type="submit"] {
   min-width: 150px;
 }
 
-button[type="submit"]:hover {
+/* button[type="submit"]:hover {
   background-color: #218838;
-}
+} */

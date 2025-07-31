@@ -5,7 +5,7 @@
   justify-content: center;
 }
 
-/* ✅ Single Rounded Container */
+/* Single Rounded Container */
 .bd-container {
   background: #fff;
   width: 100%;
@@ -15,7 +15,7 @@
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-/* ✅ Center Title */
+/*  Center Title */
 .bd-header {
   text-align: center;
   font-size: 22px;
@@ -81,7 +81,7 @@
   color: #555;
 }
 
-/* ✅ Highlight Selected */
+/*  Highlight Selected */
 .bd-point-item.selected {
   background: #e6fff1;
   border: 1px solid #0bbf6b;
@@ -106,7 +106,7 @@
   height: 18px;
 }
 
-/* ✅ Buttons Aligned Inside Container */
+/*  Buttons Aligned Inside Container */
 .bd-actions {
   display: flex;
   justify-content: space-between;

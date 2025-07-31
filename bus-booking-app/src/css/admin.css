@@ -23,7 +23,6 @@
   padding: 10px 20px;
   border: 2px solid black;
   background: #fff;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .logo {
@@ -77,7 +76,6 @@
   z-index: 1000;
   width: 30vw;
   border-radius: 10px;
-  /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
   gap: 20px;
 }
 
@@ -123,7 +121,7 @@
   height: 35px;
   border-radius: 5px;
   border: 1px solid #ccc;
-  padding-right: 30px; /* space for clear button */
+  padding-right: 30px;
   font-size: 16px;
   padding: 10px;
 }
@@ -191,7 +189,7 @@ h2 {
 }
 
 .dropdown {
-  position: absolute;
+  position: relative;
   background: #fff;
   border: 1px solid #ccc;
   width: 100%;
@@ -202,7 +200,9 @@ h2 {
   padding: 0;
   z-index: 1000;
 }
-
+.addbush2 {
+  color: black;
+}
 .dropdown li {
   padding: 8px 10px;
   cursor: pointer;
@@ -269,7 +269,7 @@ select:focus {
 }
 
 /*bus dispalying styles*/
-.displayBuses {
+/* .displayBuses {
   padding: 20px;
   font-family: "Segoe UI", sans-serif;
   display: flex;
@@ -277,7 +277,6 @@ select:focus {
   align-items: center;
   justify-content: flex-start;
   max-height: 80vh;
-  /* overflow-y: auto; */
 }
 .title {
   text-align: center;
@@ -324,7 +323,6 @@ select:focus {
 
 .route {
   margin: 10px 0;
-  /* font-weight: 500; */
   color: black;
 }
 
@@ -368,14 +366,164 @@ select:focus {
 .deleteBtn {
   background-color: #e74c3c;
   color: white;
-}
+}  */
 
-.editBtn:hover {
+/* .editBtn:hover {
   background-color: #219150;
 }
 
 .deleteBtn:hover {
   background-color: #c0392b;
+} */
+.displayBuses {
+  padding: 1rem;
+  margin-top: 150px;
+}
+
+.busDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.frbus {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  justify-content: center;
+  margin-top: 50px;
+  min-width: auto;
+}
+
+/* Card Style */
+.busContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  max-width: 800px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.busContainer:hover {
+  transform: translateY(-4px);
+}
+
+/* Left Section */
+.busLeft {
+  flex: 2;
+}
+
+.busHeader {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.busIcon {
+  color: #e53935;
+  font-size: 20px;
+}
+
+.busHeader h3 {
+  font-size: 18px;
+  margin: 0;
+  color: #333;
+}
+
+.busHeader span {
+  font-weight: normal;
+  font-size: 14px;
+  color: #666;
+}
+
+.route {
+  font-size: 16px;
+  margin-bottom: 10px;
+  display: block;
+  color: #444;
+}
+
+.arrow {
+  margin: 0 8px;
+}
+
+.timing {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+/* ✅ Rating moved here */
+.rating {
+  background-color: #4caf50;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 14px;
+  display: inline-block;
+  margin-top: 5px;
+}
+
+/* Bus Type */
+.busType {
+  background-color: #eef1f6;
+  padding: 4px 8px;
+  border-radius: 6px;
+  display: inline-block;
+  font-size: 12px;
+  margin-top: 5px;
+  color: #333;
+}
+
+/* Right Section */
+.busRight {
+  flex: 1;
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.fare {
+  font-size: 20px;
+  color: #2e7d32;
+  font-weight: bold;
+}
+
+/* ✅ Edit/Delete Buttons moved to right */
+.busRight .actionButtons {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  margin-top: auto;
+}
+
+/* Buttons */
+.editBtn,
+.deleteBtn {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.editBtn {
+  background-color: #0288d1;
+  color: white;
+}
+
+.deleteBtn {
+  background-color: #d32f2f;
+  color: white;
 }
 
 /*upadted bus details styling*/

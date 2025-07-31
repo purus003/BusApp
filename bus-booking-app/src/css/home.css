@@ -31,7 +31,9 @@ body {
   top: 100px;
   z-index: 10;
 }
-
+.custom-margin-toast {
+  top: 200px !important;
+}
 .searchBar-container {
   display: flex;
   align-items: center;

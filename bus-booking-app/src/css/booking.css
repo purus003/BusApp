@@ -1,5 +1,5 @@
 .mybooking_contiamer {
-  margin-top: 100px;
+  margin-top: 150px;
 }
 .booking-contianer {
   margin-top: 50px;
@@ -84,6 +84,9 @@
   text-align: center;
   margin-top: 100px;
   font-size: 20px;
-  color: #888;
+  color: red;
   font-weight: bold;
+}
+.bookingCancel-toast {
+  margin-top: 100px !important;
 }

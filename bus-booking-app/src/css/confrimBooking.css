@@ -1,20 +1,20 @@
-/* ✅ Confirmation Container */
+/* Confirmation Container */
 .passenger-details-container {
+  top: 200px;
   background: white;
   padding: 20px;
-  margin: 40px auto;
+  margin: 100px auto;
   border-radius: 12px;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
   max-width: 650px;
   z-index: 999;
   text-align: center;
 }
 
-/* ✅ Passenger Card */
+/* Passenger Card */
 .passenger-card {
   margin: 15px;
   background: white;
-  border: 1px solid #ccc;
+  border: 2px solid #ccc;
   border-radius: 8px;
   padding: 15px;
   text-align: left;
@@ -27,32 +27,32 @@
   font-weight: 300px;
 }
 
-/* ✅ Total Fare Box */
+/* Total Fare Box */
 .totalfair {
   padding: 10px;
   display: flex;
   justify-content: flex-end;
 }
 
-/* ✅ Button Container */
+/* Button Container */
 .confirm-btn {
   display: flex;
   justify-content: center;
   margin-top: 20px;
 }
 
-/* ✅ Styled Button */
+/* Styled Button */
 .confirm-btn button {
-  background-color: rgb(38, 75, 38); /* ✅ Moved here */
+  background-color: rgb(38, 75, 38);
   color: white;
   padding: 10px 25px;
   font-size: 16px;
   border: none;
   border-radius: 6px;
   cursor: pointer;
-  width: auto; /* ✅ Prevent full width */
-  min-width: 180px; /* Optional consistent width */
-  /* transition: background 0.3s ease, transform 0.2s ease; */
+  width: auto;
+  /* min-width: 180px; */
+  /* transsition: background 0.3s ease, transform 0.2s ease; */
 }
 
 /* .confirm-btn button:hover {

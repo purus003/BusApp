@@ -1,6 +1,6 @@
-/* ✅ Main Wrapper after Navbar */
+/* ✅ Wrapper */
 .buspgWrapper {
-  margin-top: 130px; /* Pushes content below navbar */
+  margin-top: 130px;
   display: flex;
   gap: 20px;
 }
@@ -10,24 +10,23 @@
   width: 240px;
   background: #fff;
   border-radius: 10px;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
   padding: 20px;
-  position: fixed; /* ✅ stays fixed while scrolling */
-  top: 130px; /* distance from top */
-  left: 25px; /* adjust left position to match original layout */
-  z-index: 1000; /* keep it above other elements */
-  height: fit-content;
+  position: fixed;
+  top: 130px;
+  left: 25px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 
 .buspgH3 {
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 15px;
   color: #222;
+  font-weight: bold;
 }
 
 .buspgFilterTitle {
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 10px;
   margin-bottom: 5px;
 }
@@ -37,109 +36,154 @@
 }
 
 .buspg-checkbox label {
-  font-size: 15px;
+  font-size: 13px;
   cursor: pointer;
 }
 
 /* ✅ Bus List Container */
 .buspgBusDetails {
-  width: 70%;
+  width: 75%;
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 18px;
+  margin-left: 300px;
 }
 
-/* ✅ Bus Card Styling */
+/* ✅ Bus Card */
 .buspgCardNew {
   background: #fff;
   border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 15px 20px;
+  border-radius: 12px;
   display: flex;
-  flex-direction: column;
-  gap: 8px;
-  margin-left: 300px;
-  margin-right: -230px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  align-items: flex-start;
+  padding: 20px 20px;
+  width: 80%;
+  min-height: 150px;
   transition: all 0.2s ease-in-out;
 }
 
-/* ✅ Header Row */
-.buspgHeaderRow {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.buspgCardNew:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
+}
+
+/* ✅ LEFT SECTION */
+.buspgLeft {
+  margin-right: 10%;
+}
+
+.buspgPrimoBadge {
+  background: #ffd700;
+  color: #222;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 3px 5px;
+  border-radius: 12px;
+  display: inline-block;
+  margin-bottom: 6px;
 }
 
 .buspgBusTitle {
-  font-size: 18px;
+  font-size: 19px;
   font-weight: bold;
-  margin: 0;
   color: #222;
+}
+
+.buspgBusNumber {
+  font-size: 14px;
+  font-weight: normal;
+  color: #666;
 }
 
 .buspgSubType {
-  font-size: 13px;
+  font-size: 14px;
   color: #777;
-  margin-top: 2px;
+  margin-top: 3px;
 }
 
-.buspgFare {
-  font-size: 20px;
-  font-weight: bold;
-  color: #222;
-}
-
-/* ✅ Meta Info */
-.buspgMeta {
+.buspgAmenities {
   display: flex;
-  gap: 15px;
+  gap: 8px;
+  margin-top: 12px;
   font-size: 13px;
-  align-items: center;
+  color: #444;
+}
+
+.buspgMiddle {
+  flex: 1.2;
+  text-align: center;
 }
 
 .buspgRatingBadge {
-  background: #2e7d32;
-  color: #e0f7e0;
-  padding: 2px 8px;
-  border-radius: 4px;
+  display: flex;
+  color: white;
+  border-radius: 6px;
+  font-size: 14px;
   font-weight: bold;
+  display: inline-block;
+  margin-right: 350px;
 }
 
-.buspgLiveTrack {
-  color: gray;
+.buspgRatingText {
+  display: block;
+  font-size: 12px;
+  color: #777;
+  margin-top: 30px;
+  margin-right: 400px;
 }
 
-/* ✅ Timings */
 .buspgTimeRow {
-  font-size: 15px;
+  font-size: 18px;
+  font-weight: bold;
   color: #333;
-}
-
-.buspgTime {
-  font-size: 16px;
-  color: #000;
+  margin-top: 30px;
+  margin-right: 50px;
 }
 
 .buspgDurationText {
-  font-size: 12px;
-  color: #999;
+  font-size: 13px;
+  color: black;
+  margin-top: 4px;
+  margin-right: 15%;
 }
 
-/* ✅ Action Button */
-.buspgActionRow {
+/* ✅ RIGHT SECTION */
+.buspgRight {
+  flex: 1;
+  text-align: right;
   display: flex;
-  justify-content: flex-end;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
 }
 
+.buspgDiscount {
+  background: #fff3e0;
+  color: #e65100;
+  font-size: 13px;
+  padding: 4px 10px;
+  border-radius: 5px;
+}
+
+.buspgFare {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2e7d32;
+}
+
+.buspgOnwards {
+  font-size: 13px;
+  color: #777;
+}
+
+/* ✅ View Seats Button */
 .buspgSelectSeats {
   background: #e53935;
   color: #fff;
   border: none;
-  padding: 6px 16px;
-  border-radius: 4px;
-  font-weight: bold;
-  font-size: 13px;
+  padding: 9px 20px;
+  font-size: 14px;
+  border-radius: 22px;
   cursor: pointer;
   transition: background 0.2s;
 }
@@ -149,19 +193,9 @@
 }
 
 /* ✅ No Buses */
-.no-bus-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  margin-left: 450px;
-}
 .buspgNoBuses {
   font-size: 1.3rem;
-  color: #ff4d4d;
-  background: #fff3f3;
-  padding: 10px 20px;
-  border: 1px solid #ffcccc;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  color: red;
+  text-align: center;
+  margin-left: 50%;
 }

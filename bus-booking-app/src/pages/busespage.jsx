@@ -11,17 +11,15 @@ function Buspage() {
   const [nonAcChecked, setNonAcChecked] = useState(false);
   const dispatch = useDispatch();
   const user = useSelector((state) => state.auth.user);
-  // const buses = useSelector((state) => state.bus.fromAndTo);
   const allBuses = useSelector((state) => state.bus.fromAndTo);
   const now = new Date();
+
   const buses = allBuses.filter((bus) => {
     const departureDateTime = new Date(
       `${bus.journeyDate}T${bus.departureTime}`
     );
     return departureDateTime > now;
   });
-  console.log(allBuses);
-  console.log(buses);
 
   const filteredBuses = buses.filter((bus) => {
     if (acChecked && !nonAcChecked) return bus.type.toLowerCase() === "ac";
@@ -35,7 +33,7 @@ function Buspage() {
 
   const handlechange = (bus) => {
     if (!user) {
-      navigate("/login", { state: { from: "/seat" } });
+      navigate("/login", { state: { from: "/bookingFlow" } });
     } else {
       dispatch(setSelectedBus(bus));
       navigate("/bookingFlow");
@@ -58,25 +56,11 @@ function Buspage() {
     <div>
       <Header />
 
-      {/* ✅ Wrapper after Navbar */}
       <div className="buspgWrapper">
         {/* ✅ Sidebar Filter */}
         {buses.length > 0 && (
           <div className="buspg-filter">
             <h3 className="buspgH3">FILTERS</h3>
-
-            {/* <p className="buspgFilterTitle">BUS TYPES</p>
-            <div className="buspg-checkbox">
-              <label>
-                <input type="checkbox" /> SEATER
-              </label>
-            </div> */}
-            {/* <div className="buspg-checkbox">
-              <label>
-                <input type="checkbox" /> SLEEPER
-              </label>
-            </div> */}
-
             <p className="buspgFilterTitle">AC TYPES</p>
             <div className="buspg-checkbox">
               <label>
@@ -112,37 +96,49 @@ function Buspage() {
           ) : (
             filteredBuses.map((bus) => (
               <div className="buspgCardNew" key={bus.id}>
-                <div className="buspgHeaderRow">
-                  <div>
-                    <h3 className="buspgBusTitle">{bus.busName}</h3>
-                    <p className="buspgSubType">
-                      {bus.type} • Bharat Benz (2+2)
-                    </p>
+                {/* ✅ LEFT: PRIMO + Bus Name + Number + Type + Amenities */}
+                <div className="buspgLeft">
+                  <span className="buspgPrimoBadge">PRIMO</span> ⭐
+                  <h3 className="buspgBusTitle">
+                    {bus.busName}{" "}
+                    <span className="buspgBusNumber">({bus.busNumber})</span>
+                  </h3>
+                  <p className="buspgSubType">{bus.type} • Bharat Benz (2+2)</p>
+                  {/* Amenities row */}
+                  <div className="buspgAmenities">
+                    {/* <span>🛏 Sleeper</span>
+                    <span>❄️ AC</span> */}
+                    <span>🔌 Charging</span>
+                    <span>📶 Wifi</span>
                   </div>
-                  <span className="buspgFare">₹{bus.fare}</span>
                 </div>
 
-                <div className="buspgMeta">
-                  <span className="buspgRatingBadge">
-                    ⭐ {bus.rating || "3.9"}
-                  </span>
-                  <span className="buspgLiveTrack">📍 Live Tracking</span>
-                </div>
+                {/* ✅ MIDDLE: Rating + Timings */}
+                <div className="buspgMiddle">
+                  {/* <span className="buspgRatingBadge">
+                    ⭐ {bus.rating || "4.5"}
+                  </span> */}
+                  {/* <small className="buspgRatingText">Excellent</small> */}
 
-                <div className="buspgTimeRow">
-                  <strong className="buspgTime">{bus.departureTime}</strong> →{" "}
-                  <strong className="buspgTime">{bus.arrivalTime}</strong>
+                  <div className="buspgTimeRow">
+                    <strong className="buspgTime">{bus.departureTime}</strong> →{" "}
+                    <strong className="buspgTime">{bus.arrivalTime}</strong>
+                  </div>
                   <p className="buspgDurationText">
                     {getTotalJourneyTime(bus.arrivalTime, bus.departureTime)}
                   </p>
                 </div>
 
-                <div className="buspgActionRow">
+                {/* ✅ RIGHT: Discount + Fare + View Seats */}
+                <div className="buspgRight">
+                  <span className="buspgDiscount">🎉 Upto 10% Off</span>
+                  <div className="buspgFare">₹{bus.fare}</div>
+                  <small className="buspgOnwards">Onwards</small>
                   <button
                     className="buspgSelectSeats"
                     onClick={() => handlechange(bus)}
                   >
-                    SELECT SEATS
+                    View Seats
                   </button>
                 </div>
               </div>
