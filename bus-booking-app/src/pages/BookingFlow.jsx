@@ -20,7 +20,11 @@ function BookingFlow() {
   // ✅ Step navigation with validation
   const goToStep2 = () => {
     if (selectedSeats.length === 0) {
-      toast.error(" Please select at least one seat before proceeding!");
+      toast.error(" Please select at least one seat before proceeding!", {
+        position: "top-center",
+        autoClose: 3000,
+        className: "gostep22",
+      });
       return;
     }
     setStep(2);

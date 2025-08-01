@@ -87,7 +87,7 @@ function Mybookings() {
                   </p>
 
                   <p className="booking-info">
-                    <span className="booking-label">BookedSeatsNumbers:</span>{" "}
+                    <span className="booking-label">BookedSeatsNumber:</span>{" "}
                     {booking.seat.join(", ")}
                   </p>
 

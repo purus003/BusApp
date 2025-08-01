@@ -93,8 +93,10 @@ function Admin() {
   function getTotalJourneyTime(arrivalTime, departureTime) {
     const [depHours, depMinutes] = departureTime.split(":").map(Number);
     const [arrHours, arrMinutes] = arrivalTime.split(":").map(Number);
+
     const depDate = new Date(0, 0, 0, depHours, depMinutes);
     const arrDate = new Date(0, 0, 0, arrHours, arrMinutes);
+
     if (arrDate < depDate) {
       arrDate.setDate(arrDate.getDate() + 1);
     }
@@ -117,8 +119,9 @@ function Admin() {
     citiesData.map((c) => c.name)
   );
   const [showDropdown, setShowDropdown] = useState({ from: false, to: false });
+
   const filterCities = (value) => {
-    const allCities = citiesData; // already an array of strings
+    const allCities = citiesData;
     if (!value) return allCities;
     return allCities.filter((city) =>
       city.toLowerCase().includes(value.toLowerCase())
@@ -364,7 +367,7 @@ function Admin() {
                     <Field
                       name="totalSeats"
                       type="number"
-                      placeholder="Total seats"
+                      placeholder="max seats 40"
                     />
                     <ErrorMessage
                       name="totalSeats"
@@ -374,7 +377,7 @@ function Admin() {
                   </div>
                 </div>
 
-                {/* ✅ Bus Type & Fare */}
+                {/* Bus Type & Fare */}
                 <div className="field-row">
                   <div className="field-col">
                     <label>Bus Type</label>
@@ -403,7 +406,9 @@ function Admin() {
 
                 {/* ✅ Submit */}
                 <div className="button-row">
-                  <button type="submit">Register</button>
+                  <button type="submit" className="regsiterbtn">
+                    Register
+                  </button>
                 </div>
               </Form>
             )}
@@ -463,43 +468,37 @@ function Admin() {
 
       <div className="displayBuses">
         {busesToDisplay.length === 0 ? (
-          <div className="frbus">
-            <p className="no-buses">No buses available.</p>
-          </div>
+          <p className="no-buses">No buses available.</p>
         ) : (
           <div className="busDetails">
             {busesToDisplay.map((bus) => (
               <div className="busContainer" key={bus.id}>
+                {/* Left Section - Bus Info and Fare */}
                 <div className="busLeft">
                   <div className="busHeader">
-                    <FontAwesomeIcon icon={faBus} className="busIcon" />
                     <h3>
-                      {bus.busName} <span>({bus.busNumber})</span> &nbsp;{" "}
-                      <small className="busType">{bus.type}</small>
-                      {/* <div className="fare"> ⭐ </div> */}
-                      {/**{bus.rating || "4.6"} */}
+                      {bus.busName} <span>({bus.busNumber})</span>
                     </h3>
+                    <strong className="busType">{bus.type}</strong>
                   </div>
-                  <strong className="route">
-                    {bus.from} <span className="arrow">➡️</span> {bus.to}
-                  </strong>
 
-                  <p className="timing">
-                    <strong>{bus.arrivalTime}</strong> -{" "}
-                    <strong>{bus.departureTime}</strong>
-                    <br />
-                    <strong>
-                      {getTotalJourneyTime(bus.arrivalTime, bus.departureTime)}
+                  <div className="routeInfo">
+                    <strong className="route">
+                      {bus.from} <span className="arrow">➡️</span> {bus.to}
                     </strong>
-                  </p>
+                    <p className="timing">
+                      {bus.departureTime} - {bus.arrivalTime}
+                      <br />
+                      {getTotalJourneyTime(bus.arrivalTime, bus.departureTime)}
+                    </p>
+                  </div>
 
-                  <div className="rating">₹{bus.fare}</div>
-
-                  {/* <small className="busType">{bus.type}</small> */}
+                  <div className="fare">₹{bus.fare}</div>
                 </div>
-                <div className="busRight">
-                  <div className="fare"> ⭐ {bus.rating || "4.6"}</div>
 
+                {/* Right Section - Rating and Actions */}
+                <div className="busRight">
+                  <div className="rating">⭐ {bus.rating || "4.6"}</div>
                   <div className="actionButtons">
                     <button className="editBtn" onClick={() => setUpdate(bus)}>
                       Edit
@@ -517,7 +516,6 @@ function Admin() {
           </div>
         )}
       </div>
-
       {update && (
         <div className="update-container">
           <Formik
@@ -542,7 +540,10 @@ function Admin() {
             }}
           >
             <Form className="form" key={update.id}>
-              <h2> Make Changes to Bus Info {update.busName}</h2>
+              <h2 className="busupd">
+                {" "}
+                Make Changes to Bus Info {update.busName}
+              </h2>
 
               <div className="field-row">
                 <div className="field-col">

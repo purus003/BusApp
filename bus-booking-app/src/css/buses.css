@@ -197,5 +197,7 @@
   font-size: 1.3rem;
   color: red;
   text-align: center;
-  margin-left: 50%;
+}
+.no-bus-container {
+  margin-left: 15%;
 }

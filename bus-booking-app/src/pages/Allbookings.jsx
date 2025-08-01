@@ -5,7 +5,7 @@ import "../css/allbookings.css";
 function Allbookings() {
   const allbookings = useSelector((state) => state.book?.bookings ?? []);
   const data = Array.isArray(allbookings) ? allbookings : [];
-
+  console.log(typeof data);
   return (
     <div className="allbookings-container">
       <h2 className="allbookings-title">All Buses Bookings</h2>
